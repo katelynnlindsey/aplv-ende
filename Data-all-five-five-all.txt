@@ -1,0 +1,2126 @@
+Speaker_code	Hometown	Sex	Age_1	Clan	Sub_clan	Orator	Token_ID	Word	Word_class	Nasal_drop	Fol_seg	Tense	Subj_person	Syllabicity	Word_class	Genre
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	169	dan	copula	n	V	prs	1			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	182	dan	copula	0	C	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	198	gogon	auxiliary	n	##	rem	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	199	gogon	auxiliary	n	#	rem	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	207	dan	copula	n	V	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	224	allan	auxiliary	0	C	prs	1			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	228	dan	copula	0	V	prs	1			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	229	dan	copula	0	#	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	232	dan	copula	0	C	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	252	dan	copula	0	#	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	259	dan	copula	0	C	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	266	gogon	auxiliary	0	#	rem	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	268	gogon	auxiliary	n	##	rem	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	271	allan	auxiliary	0	C	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	275	dan	copula	n	C	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	278	dan	copula	n	#	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	281	gogon	auxiliary	n	C	rem	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	282	gogon	auxiliary	0	##	rem	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	284	gogon	auxiliary	n	##	rem	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	288	allan	auxiliary	n	##	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	293	gogon	auxiliary	n	##	rem	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	301	bogon	auxiliary	0	##	fut	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	306	dan	copula	n	#	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	308	dan	copula	n	##	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	325	allan	auxiliary	0	C	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	326	dan	copula	0	V	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	327	dan	copula	0	V	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	334	dan	copula	n	##	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	335	allan	auxiliary	0	C	prs	1			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	346	allan	auxiliary	0	#	prs	1			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	348	agan	auxiliary	n	##	rec	1			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	369	allan	auxiliary	n	##	prs	1			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	372	dan	copula	n	##	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	373	dan	copula	n	##	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	379	gogon	auxiliary	n	##	rem	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	388	dan	copula	n	##	prs	3			
+AAK	Limol	M	46-61	Dd?liag	Tizag	Y	393	allan	auxiliary	0	##	prs	3			
+ADD	Limol	F	15-29	Dd?liag	Yawinang	N	11	allan	auxiliary	0	C	prs	1			
+ADD	Limol	F	15-29	Dd?liag	Yawinang	N	12	dan	copula	n	#	prs	3			
+ADD	Limol	F	15-29	Dd?liag	Yawinang	N	13	dan	copula	0	##	prs	3			
+ADD	Limol	F	15-29	Dd?liag	Yawinang	N	14	dan	copula	0	C	prs	3			
+ADD	Limol	F	15-29	Dd?liag	Yawinang	N	17	dan	copula	0	##	prs	3			
+ADD	Limol	F	15-29	Dd?liag	Yawinang	N	24	allan	auxiliary	0	C	prs	3			
+ADD	Limol	F	15-29	Dd?liag	Yawinang	N	28	dan	copula	0	##	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	7	dan	copula	0	##	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	27	dan	copula	n	#	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	29	dan	copula	0	C	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	33	dan	copula	n	##	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	35	dan	copula	0	C	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	37	allan	auxiliary	0	##	prs	1			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	38	dan	copula	n	#	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	49	dan	copula	0	C	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	57	allan	auxiliary	0	##	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	59	dan	copula	0	V	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	61	allan	auxiliary	0	##	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	62	agan	auxiliary	0	##	rec	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	66	dan	copula	n	#	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	67	dan	copula	n	##	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	69	dan	copula	n	##	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	72	dan	copula	0	##	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	73	dan	copula	0	#	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	74	dan	copula	0	##	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	76	dan	copula	0	##	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	77	dan	copula	0	##	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	82	dan	copula	0	C	prs	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	89	bogon	auxiliary	n	##	fut	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	95	agan	auxiliary	0	C	rec	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	96	agan	auxiliary	0	##	rec	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	97	agan	auxiliary	0	##	rec	3			
+AKD	Limol	M	15-29	Yamkong	Pallong	N	104	agan	auxiliary	n	##	rec	1			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	4	dan	copula	0	##	prs	1			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	10	dan	copula	0	V	prs	1			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	12	dan	copula	0	##	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	25	agan	auxiliary	0	C	rec	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	27	agan	auxiliary	0	##	rec	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	29	dan	copula	0	##	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	30	dan	copula	0	##	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	31	dan	copula	0	C	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	37	allan	auxiliary	0	##	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	38	allan	auxiliary	n	##	prs	1			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	40	allan	auxiliary	n	##	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	52	dan	copula	0	C	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	55	dan	copula	0	##	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	60	dan	copula	0	##	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	67	allan	auxiliary	0	##	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	74	allan	auxiliary	0	##	prs	1			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	82	dan	copula	0	##	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	85	allan	auxiliary	0	##	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	95	dan	copula	0	##	prs	3			
+AMJ	Limol	F	15-29	Yamkong	Bobeag	N	96	allan	auxiliary	0	C	prs	1			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	9	gogon	auxiliary	n	##	rem	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	10	gogon	auxiliary	n	##	rem	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	32	allan	auxiliary	0	##	prs	1			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	34	allan	auxiliary	0	##	prs	1			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	49	dan	copula	0	C	prs	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	50	dan	copula	0	##	prs	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	51	allan	auxiliary	0	##	prs	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	52	dan	copula	0	V	prs	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	61	dan	copula	0	V	prs	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	67	gogon	auxiliary	n	##	rem	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	68	gogon	auxiliary	n	##	rem	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	72	dan	copula	0	#	prs	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	80	gogon	auxiliary	n	V	rem	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	92	dan	copula	0	#	prs	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	93	allan	auxiliary	0	##	prs	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	103	allan	auxiliary	0	C	prs	1			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	109	dan	copula	n	C	prs	3			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	122	allan	auxiliary	n	V	prs	1			
+AMM	Malam	M	62+	Yamkong	Dumang	Y	127	dan	copula	0	C	prs	3			
+ANN	Malam	F	62+	Yamkong		N	6	dan	copula	0	C	prs	3			
+ANN	Malam	F	62+	Yamkong		N	14	dan	copula	0	C	prs	3			
+ANN	Malam	F	62+	Yamkong		N	15	dan	copula	0	##	prs	3			
+ANN	Malam	F	62+	Yamkong		N	16	dan	copula	0	C	prs	3			
+ANN	Malam	F	62+	Yamkong		N	18	allan	auxiliary	0	##	prs	1			
+ANN	Malam	F	62+	Yamkong		N	23	dan	copula	0	C	prs	3			
+ANN	Malam	F	62+	Yamkong		N	28	dan	copula	0	C	prs	3			
+ANN	Malam	F	62+	Yamkong		N	40	dan	copula	0	##	prs	3			
+ANN	Malam	F	62+	Yamkong		N	42	dan	copula	0	C	prs	3			
+ANN	Malam	F	62+	Yamkong		N	46	dan	copula	0	##	prs	1			
+ANN	Malam	F	62+	Yamkong		N	48	dan	copula	0	##	prs	3			
+ANN	Malam	F	62+	Yamkong		N	50	dan	copula	n	C	prs	3			
+ANN	Malam	F	62+	Yamkong		N	58	allan	auxiliary	0	V	prs	1			
+ANN	Malam	F	62+	Yamkong		N	79	agan	auxiliary	n	##	rec	1			
+ANN	Malam	F	62+	Yamkong		N	80	agan	auxiliary	0	V	rec	1			
+ANN	Malam	F	62+	Yamkong		N	81	agan	auxiliary	n	#	rec	1			
+ANN	Malam	F	62+	Yamkong		N	82	agan	auxiliary	n	##	rec	1			
+ANN	Malam	F	62+	Yamkong		N	90	dan	copula	0	V	prs	3			
+ANN	Malam	F	62+	Yamkong		N	91	dan	copula	0	##	prs	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	10	dan	copula	0	##	prs	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	11	dan	copula	0	##	prs	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	13	dan	copula	0	##	prs	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	15	dan	copula	0	##	prs	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	18	dan	copula	0	##	prs	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	28	allan	auxiliary	0	##	prs	1			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	36	dan	copula	0	##	prs	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	42	agan	auxiliary	n	V	rec	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	47	gogon	auxiliary	n	##	rem	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	49	dan	copula	0	C	prs	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	68	allan	auxiliary	0	C	prs	1			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	69	allan	auxiliary	n	V	prs	1			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	75	dan	copula	0	C	prs	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	78	dan	copula	0	V	prs	3			
+BJJ	Limol	M	62+	Yamkong	Ka?ballag	Y	79	dan	copula	n	##	prs	3			
+BMK	Limol	M	62+	Dd?liag	Llimollang	N	7	dan	copula	0	V	prs	3			
+BMK	Limol	M	62+	Dd?liag	Llimollang	N	19	dan	copula	n	##	prs	3			
+BMK	Limol	M	62+	Dd?liag	Llimollang	N	67	dan	copula	0	##	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	41	dan	copula	0	C	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	42	dan	copula	0	##	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	49	dan	copula	0	#	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	50	dan	copula	n	#	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	52	dan	copula	0	##	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	55	dan	copula	0	C	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	65	dan	copula	0	C	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	71	allan	auxiliary	0	C	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	88	dan	copula	n	C	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	94	dan	copula	0	C	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	101	dan	copula	0	##	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	103	gogon	auxiliary	n	##	rem	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	110	dan	copula	0	##	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	111	dan	copula	0	V	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	118	gogon	auxiliary	0	V	rem	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	147	allan	auxiliary	0	##	prs	1			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	148	allan	auxiliary	n	##	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	149	allan	auxiliary	0	V	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	150	allan	auxiliary	0	##	prs	1			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	151	allan	auxiliary	0	##	prs	1			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	152	allan	auxiliary	0	##	prs	1			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	153	dan	copula	n	##	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	154	allan	auxiliary	0	C	prs	1			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	155	dan	copula	0	##	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	156	allan	auxiliary	0	C	prs	1			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	157	dan	copula	0	##	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	173	allan	auxiliary	0	##	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	177	dan	copula	n	V	prs	3			
+BZZ	Limol	F	62+	Dd?liag	Dumollang	N	178	dan	copula	n	##	prs	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	7	gogon	auxiliary	n	V	rem	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	15	allan	auxiliary	0	##	prs	1			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	16	allan	auxiliary	0	##	prs	1			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	17	allan	auxiliary	0	##	prs	1			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	18	allan	auxiliary	0	##	prs	1			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	19	allan	auxiliary	0	##	prs	1			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	21	allan	auxiliary	0	##	prs	1			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	26	dan	copula	0	##	prs	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	27	dan	copula	0	##	prs	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	29	dan	copula	0	#	prs	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	31	allan	auxiliary	0	##	prs	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	40	dan	copula	0	##	prs	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	42	dan	copula	0	##	prs	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	45	allan	auxiliary	0	##	prs	1			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	47	dan	copula	0	##	prs	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	48	dan	copula	n	##	prs	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	50	dan	copula	0	V	prs	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	57	dan	copula	0	##	prs	3			
+CDD	Limol	F	15-29	Dd?liag	Yawinang	N	58	dan	copula	n	##	prs	1			
+CSS	Malam	F	15-29	Dd?liag		Y	5	dan	copula	n	V	prs	3			
+CSS	Malam	F	15-29	Dd?liag		Y	6	dan	copula	n	##	prs	3			
+CSS	Malam	F	15-29	Dd?liag		Y	12	agan	auxiliary	n	##	rec	1			
+CSS	Malam	F	15-29	Dd?liag		Y	21	dan	copula	0	##	prs	3			
+CSS	Malam	F	15-29	Dd?liag		Y	26	dan	copula	0	#	prs	3			
+CSS	Malam	F	15-29	Dd?liag		Y	30	dan	copula	0	#	prs	3			
+CSS	Malam	F	15-29	Dd?liag		Y	35	dan	copula	0	C	prs	3			
+CSS	Malam	F	15-29	Dd?liag		Y	38	dan	copula	0	C	prs	3			
+CSS	Malam	F	15-29	Dd?liag		Y	42	dan	copula	0	C	prs	3			
+CSS	Malam	F	15-29	Dd?liag		Y	43	bogon	auxiliary	n	V	fut	3			
+CSS	Malam	F	15-29	Dd?liag		Y	44	dan	copula	0	##	prs	3			
+CSS	Malam	F	15-29	Dd?liag		Y	51	allan	auxiliary	n	V	prs	1			
+CSS	Malam	F	15-29	Dd?liag		Y	52	dan	copula	0	#	prs	1			
+CSS	Malam	F	15-29	Dd?liag		Y	59	dan	copula	0	V	prs	1			
+CSS	Malam	F	15-29	Dd?liag		Y	62	dan	copula	0	C	prs	3			
+CSS	Malam	F	15-29	Dd?liag		Y	65	allan	auxiliary	n	V	prs	1			
+CSS	Malam	F	15-29	Dd?liag		Y	72	bogon	auxiliary	n	V	fut	3			
+CTN	Limol	M	30-45	Yamkong		N	2	dan	copula	0	##	prs	3			
+CTN	Limol	M	30-45	Yamkong		N	19	allan	auxiliary	0	##	prs	1			
+CTN	Limol	M	30-45	Yamkong		N	26	dan	copula	n	##	prs	3			
+CTN	Limol	M	30-45	Yamkong		N	28	gogon	auxiliary	0	C	rem	3			
+CTN	Limol	M	30-45	Yamkong		N	29	gogon	auxiliary	n	##	rem	3			
+CTN	Limol	M	30-45	Yamkong		N	31	gogon	auxiliary	0	C	rem	3			
+CTN	Limol	M	30-45	Yamkong		N	35	bogon	auxiliary	0	##	fut	3			
+CTN	Limol	M	30-45	Yamkong		N	38	dan	copula	0	V	prs	3			
+CTN	Limol	M	30-45	Yamkong		N	43	dan	copula	0	C	prs	3			
+CTN	Limol	M	30-45	Yamkong		N	44	dan	copula	0	C	prs	3			
+CTN	Limol	M	30-45	Yamkong		N	55	dan	copula	0	C	prs	3			
+CTN	Limol	M	30-45	Yamkong		N	57	allan	auxiliary	0	C	prs	1			
+CTN	Limol	M	30-45	Yamkong		N	58	dan	copula	0	##	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	8	dan	copula	n	#	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	11	dan	copula	n	C	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	29	allan	auxiliary	0	##	prs	1			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	30	dan	copula	0	C	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	31	dan	copula	0	C	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	37	allan	auxiliary	n	#	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	39	dan	copula	n	C	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	40	dan	copula	n	##	prs	1			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	50	dan	copula	0	#	prs	1			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	56	bogon	auxiliary	n	V	fut	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	66	dan	copula	0	#	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	71	gogon	auxiliary	n	#	rem	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	75	gogon	auxiliary	n	#	rem	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	77	dan	copula	0	V	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	94	gogon	auxiliary	n	##	rem	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	104	dan	copula	0	C	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	105	dan	copula	n	#	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	108	dan	copula	0	C	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	119	dan	copula	0	##	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	123	bogon	auxiliary	n	#	fut	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	124	bogon	auxiliary	0	V	fut	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	128	dan	copula	n	##	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	131	dan	copula	0	##	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	135	dan	copula	n	##	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	152	allan	auxiliary	0	##	prs	1			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	158	dan	copula	n	##	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	160	dan	copula	0	C	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	161	dan	copula	0	C	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	162	dan	copula	0	C	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	171	dan	copula	n	##	prs	3			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	174	allan	auxiliary	n	V	prs	1			
+DDK	Limol	M	30-45	Yamkong	Bobeag	N	187	agan	auxiliary	n	#	rec	1			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	25	dan	copula	0	C	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	35	dan	copula	0	V	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	67	dan	copula	n	C	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	68	dan	copula	n	V	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	69	dan	copula	0	C	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	75	allan	auxiliary	0	C	prs	1			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	100	dan	copula	0	#	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	124	gogon	auxiliary	0	##	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	125	gogon	auxiliary	n	#	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	126	gogon	auxiliary	0	##	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	133	dan	copula	0	C	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	138	dan	copula	n	V	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	144	dan	copula	0	V	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	153	allan	auxiliary	n	V	prs	1			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	157	allan	auxiliary	0	##	prs	1			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	158	allan	auxiliary	0	##	prs	1			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	159	dan	copula	0	##	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	177	gogon	auxiliary	n	#	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	190	gogon	auxiliary	0	C	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	192	gogon	auxiliary	0	##	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	204	gogon	auxiliary	n	##	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	209	gogon	auxiliary	n	#	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	221	dan	copula	0	##	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	225	dan	copula	0	##	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	229	allan	auxiliary	n	#	prs	1			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	230	dan	copula	0	##	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	231	gogon	auxiliary	n	#	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	232	gogon	auxiliary	0	##	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	233	gogon	auxiliary	0	##	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	238	dan	copula	0	C	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	240	dan	copula	0	C	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	241	dan	copula	0	##	prs	2			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	250	allan	auxiliary	0	C	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	256	gogon	auxiliary	0	C	rem	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	262	allan	auxiliary	0	V	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	264	dan	copula	0	C	prs	3			
+DKS	Limol	F	62+	Dd?liag	Wedag	N	274	dan	copula	0	##	prs	3			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	23	allan	auxiliary	n	##	prs	1			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	35	dan	copula	0	C	prs	3			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	38	dan	copula	0	#	prs	3			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	39	dan	copula	0	C	prs	3			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	40	dan	copula	0	##	prs	3			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	43	gogon	auxiliary	n	##	rem	3			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	47	dan	copula	n	C	prs	3			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	48	dan	copula	n	#	prs	3			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	51	allan	auxiliary	n	##	prs	1			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	52	bogon	auxiliary	n	##	fut	3			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	54	dan	copula	0	##	prs	3			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	77	bogon	auxiliary	n	##	fut	3			
+DMJ	Limol	M	15-29	Yamkong	Bobeag	Y	83	bogon	auxiliary	n	V	fut	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	20	dan	copula	n	##	prs	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	28	dan	copula	0	##	prs	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	38	bogon	auxiliary	n	##	fut	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	52	dan	copula	0	#	prs	2			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	55	dan	copula	0	C	prs	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	56	dan	copula	0	C	prs	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	62	agan	auxiliary	n	V	rec	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	76	agan	auxiliary	0	C	rec	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	77	agan	auxiliary	0	##	rec	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	85	agan	auxiliary	n	##	rec	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	88	agan	auxiliary	0	C	rec	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	89	agan	auxiliary	0	#	rec	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	91	dan	copula	0	##	prs	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	93	allan	auxiliary	0	##	prs	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	101	dan	copula	0	##	prs	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	102	dan	copula	n	V	prs	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	109	agan	auxiliary	0	##	rec	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	121	dan	copula	n	#	prs	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	143	gogon	auxiliary	n	##	rem	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	154	dan	copula	0	C	prs	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	165	allan	auxiliary	0	C	prs	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	174	dan	copula	0	C	prs	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	175	bogon	auxiliary	n	#	fut	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	188	allan	auxiliary	0	V	prs	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	190	allan	auxiliary	0	C	prs	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	194	dan	copula	0	##	prs	2			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	195	dan	copula	0	##	prs	1			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	198	dan	copula	0	##	prs	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	199	dan	copula	0	##	prs	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	202	dan	copula	0	##	prs	3			
+DSS	Malam	M	62+	Dd?liag	Yawinang	Y	212	dan	copula	0	##	prs	2			
+EBB	Limol	F	30-45	Dd?liag	Yawinang	N	21	dan	copula	0	##	prs	3			
+EBB	Limol	F	30-45	Dd?liag	Yawinang	N	22	dan	copula	0	##	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	16	gogon	auxiliary	n	##	rem	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	41	allan	auxiliary	n	C	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	52	dan	copula	n	C	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	55	dan	copula	n	V	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	81	dan	copula	n	#	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	82	dan	copula	n	C	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	84	dan	copula	n	V	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	96	dan	copula	n	V	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	98	dan	copula	0	C	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	101	dan	copula	n	##	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	104	allan	auxiliary	0	##	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	105	gogon	auxiliary	n	##	rem	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	109	bogon	auxiliary	n	V	fut	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	116	dan	copula	n	#	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	120	dan	copula	n	V	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	122	dan	copula	0	C	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	123	dan	copula	0	C	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	130	bogon	auxiliary	n	##	fut	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	137	dan	copula	n	C	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	148	dan	copula	0	#	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	149	dan	copula	0	V	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	153	dan	copula	0	C	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	161	dan	copula	n	#	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	170	dan	copula	n	V	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	172	dan	copula	n	C	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	180	dan	copula	0	C	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	186	dan	copula	n	V	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	199	allan	auxiliary	0	##	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	233	allan	auxiliary	n	##	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	239	gogon	auxiliary	n	##	rem	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	247	allan	auxiliary	n	V	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	250	allan	auxiliary	n	##	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	251	allan	auxiliary	n	##	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	253	allan	auxiliary	n	##	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	255	dan	copula	n	V	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	259	dan	copula	n	##	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	261	dan	copula	n	V	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	262	dan	copula	0	V	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	267	dan	copula	0	#	prs	3			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	268	dan	copula	n	##	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	270	dan	copula	n	##	prs	1			
+ESS	Malam	F	30-45	Yamkong	Pallong	Y	273	dan	copula	n	C	prs	1			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	17	allan	auxiliary	0	##	prs	1			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	26	allan	auxiliary	0	##	prs	1			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	32	bogon	auxiliary	n	##	fut	3			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	48	allan	auxiliary	0	##	prs	1			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	52	allan	auxiliary	n	V	prs	1			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	56	allan	auxiliary	n	V	prs	3			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	60	allan	auxiliary	0	#	prs	1			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	63	dan	copula	0	##	prs	3			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	64	allan	auxiliary	0	#	prs	1			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	65	dan	copula	n	##	prs	3			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	66	dan	copula	n	##	prs	3			
+GGP	Limol	M	62+	Yamkong	Da?ra?lag	Y	68	allan	auxiliary	0	V	prs	1			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	8	dan	copula	0	C	prs	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	9	dan	copula	0	V	prs	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	13	dan	copula	0	C	prs	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	14	dan	copula	n	V	prs	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	28	dan	copula	n	V	prs	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	33	dan	copula	n	##	prs	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	36	dan	copula	0	C	prs	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	38	dan	copula	0	##	prs	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	39	dan	copula	0	C	prs	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	44	dan	copula	0	C	prs	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	48	bogon	auxiliary	0	##	fut	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	49	dan	copula	0	##	prs	3			
+GMJ	Limol	F	15-29	Yamkong	Bobeag	N	64	dan	copula	0	##	prs	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	7	dan	copula	0	C	prs	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	8	dan	copula	0	##	prs	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	10	dan	copula	0	C	prs	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	13	dan	copula	0	##	prs	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	18	gogon	auxiliary	n	##	rem	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	20	allan	auxiliary	0	##	prs	1			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	21	dan	copula	0	##	prs	1			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	22	dan	copula	0	##	prs	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	24	dan	copula	0	##	prs	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	25	dan	copula	n	#	prs	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	26	bogon	auxiliary	n	#	fut	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	30	dan	copula	0	C	prs	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	33	allan	auxiliary	0	C	prs	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	34	allan	auxiliary	0	#	prs	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	39	bogon	auxiliary	n	V	fut	3			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	42	allan	auxiliary	n	##	prs	1			
+GMM	Limol	F	15-29	Dd?liag	Llimollang	N	51	dan	copula	0	C	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	6	dan	copula	0	V	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	19	dan	copula	n	C	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	41	gogon	auxiliary	0	##	rem	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	45	dan	copula	0	V	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	46	dan	copula	0	#	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	50	dan	copula	0	##	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	52	allan	auxiliary	0	##	prs	1			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	54	dan	copula	0	C	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	57	dan	copula	0	V	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	60	allan	auxiliary	0	V	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	61	allan	auxiliary	0	C	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	64	dan	copula	0	#	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	79	gogon	auxiliary	n	##	rem	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	81	allan	auxiliary	0	##	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	102	dan	copula	0	V	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	105	bogon	auxiliary	n	#	fut	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	110	dan	copula	0	C	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	113	dan	copula	n	V	prs	1			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	119	bogon	auxiliary	n	#	fut	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	120	agan	auxiliary	0	##	rec	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	127	dan	copula	n	#	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	138	dan	copula	0	##	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	141	dan	copula	0	##	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	147	allan	auxiliary	n	#	prs	1			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	151	allan	auxiliary	0	V	prs	1			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	152	allan	auxiliary	0	V	prs	1			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	153	dan	copula	0	##	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	157	dan	copula	0	##	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	177	dan	copula	0	##	prs	3			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	181	agan	auxiliary	0	##	rec	1			
+GWK	Limol	F	30-45	Dd?liag	Wedag	N	184	dan	copula	0	##	prs	1			
+JJD	Limol	M	30-45	Yamkong	Da?ra?lag	Y	21	dan	copula	n	V	prs	3			
+JJD	Limol	M	30-45	Yamkong	Da?ra?lag	Y	23	dan	copula	0	##	prs	3			
+JJD	Limol	M	30-45	Yamkong	Da?ra?lag	Y	37	dan	copula	0	##	prs	3			
+JJD	Limol	M	30-45	Yamkong	Da?ra?lag	Y	40	dan	copula	0	##	prs	3			
+JJD	Limol	M	30-45	Yamkong	Da?ra?lag	Y	46	dan	copula	0	V	prs	3			
+JJD	Limol	M	30-45	Yamkong	Da?ra?lag	Y	56	allan	auxiliary	0	V	prs	3			
+JJD	Limol	M	30-45	Yamkong	Da?ra?lag	Y	60	bogon	auxiliary	n	V	fut	3			
+JJD	Limol	M	30-45	Yamkong	Da?ra?lag	Y	65	dan	copula	0	##	prs	2			
+JJD	Limol	M	30-45	Yamkong	Da?ra?lag	Y	67	dan	copula	0	##	prs	3			
+JJD	Limol	M	30-45	Yamkong	Da?ra?lag	Y	69	bogon	auxiliary	n	C	fut	3			
+JJD	Limol	M	30-45	Yamkong	Da?ra?lag	Y	73	dan	copula	0	##	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	27	dan	copula	0	C	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	30	dan	copula	0	C	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	31	dan	copula	0	##	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	36	agan	auxiliary	n	##	rec	1			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	39	gogon	auxiliary	n	C	rem	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	47	allan	auxiliary	0	##	prs	1			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	63	dan	copula	n	V	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	64	dan	copula	n	C	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	68	dan	copula	0	C	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	72	bogon	auxiliary	n	##	fut	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	76	dan	copula	n	C	prs	1			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	102	dan	copula	n	#	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	109	gogon	auxiliary	n	C	rem	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	111	dan	copula	0	C	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	115	dan	copula	0	V	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	120	dan	copula	0	V	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	125	dan	copula	0	C	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	131	dan	copula	n	V	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	132	dan	copula	0	V	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	138	dan	copula	n	V	prs	2			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	141	bogon	auxiliary	n	C	fut	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	142	bogon	auxiliary	n	V	fut	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	143	bogon	auxiliary	n	#	fut	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	150	dan	copula	0	##	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	151	dan	copula	0	##	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	152	dan	copula	0	##	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	154	dan	copula	0	##	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	179	dan	copula	n	V	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	180	dan	copula	n	V	prs	3			
+JMK	Limol	M	46-61	Yamkong	Bobeag	N	198	dan	copula	n	C	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	10	gogon	auxiliary	n	#	rem	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	20	dan	copula	n	#	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	81	dan	copula	n	#	prs	1			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	83	allan	auxiliary	n	#	prs	1			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	84	dan	copula	0	V	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	88	dan	copula	0	C	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	91	allan	auxiliary	0	##	prs	1			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	94	allan	auxiliary	0	##	prs	1			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	100	dan	copula	0	##	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	103	dan	copula	0	V	prs	1			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	113	dan	copula	n	#	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	125	dan	copula	0	##	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	127	dan	copula	0	C	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	130	dan	copula	n	#	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	135	dan	copula	n	C	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	143	dan	copula	0	V	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	148	dan	copula	0	##	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	150	dan	copula	0	V	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	151	dan	copula	n	#	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	152	dan	copula	0	##	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	154	dan	copula	0	##	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	157	dan	copula	0	C	prs	1			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	161	dan	copula	0	##	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	167	dan	copula	0	##	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	168	allan	auxiliary	0	#	prs	1			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	169	bogon	auxiliary	n	C	fut	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	174	dan	copula	0	##	prs	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	177	gogon	auxiliary	n	##	rem	3			
+JSS	Limol	M	15-29	Dd?liag	Wedag	N	181	allan	auxiliary	0	##	prs	1			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	3	dan	copula	0	##	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	41	dan	copula	0	V	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	49	gogon	auxiliary	n	##	rem	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	98	dan	copula	0	V	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	103	allan	auxiliary	n	##	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	120	dan	copula	0	#	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	131	allan	auxiliary	0	C	prs	1			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	140	bogon	auxiliary	n	C	fut	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	143	dan	copula	0	C	prs	1			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	145	dan	copula	0	##	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	176	gogon	auxiliary	n	##	rem	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	188	dan	copula	0	#	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	197	allan	auxiliary	n	V	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	216	dan	copula	n	#	prs	1			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	236	dan	copula	n	V	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	248	dan	copula	0	C	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	255	allan	auxiliary	0	##	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	256	allan	auxiliary	0	V	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	257	allan	auxiliary	n	C	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	260	allan	auxiliary	0	##	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	278	dan	copula	0	##	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	299	dan	copula	0	V	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	307	dan	copula	n	V	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	308	dan	copula	0	C	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	312	dan	copula	0	V	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	322	dan	copula	0	##	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	327	bogon	auxiliary	0	##	fut	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	328	allan	auxiliary	0	#	prs	1			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	329	dan	copula	0	##	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	331	dan	copula	0	##	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	332	dan	copula	0	##	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	333	dan	copula	0	#	prs	3			
+KDD	Limol	M	46-61	Yamkong	Pallong	Y	334	dan	copula	0	##	prs	1			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	25	agan	auxiliary	0	V	rec	1			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	28	allan	auxiliary	0	##	prs	1			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	32	allan	auxiliary	0	##	prs	1			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	49	dan	copula	0	##	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	56	dan	copula	n	V	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	58	dan	copula	0	V	prs	2			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	70	dan	copula	0	V	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	71	dan	copula	n	#	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	77	dan	copula	0	##	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	81	dan	copula	0	#	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	85	dan	copula	0	C	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	87	dan	copula	0	##	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	88	dan	copula	0	##	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	90	dan	copula	0	#	prs	2			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	94	dan	copula	n	C	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	102	allan	auxiliary	n	C	prs	1			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	103	dan	copula	n	V	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	107	dan	copula	0	##	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	108	dan	copula	n	##	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	109	dan	copula	0	C	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	116	dan	copula	0	##	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	117	dan	copula	0	##	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	119	dan	copula	0	#	prs	3			
+KIG	Malam	M	15-29	Dd?liag	Tizag	N	120	dan	copula	0	#	prs	3			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	18	allan	auxiliary	n	##	prs	1			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	24	dan	copula	0	##	prs	3			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	32	allan	auxiliary	0	##	prs	1			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	50	dan	copula	0	##	prs	3			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	51	dan	copula	0	C	prs	3			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	67	allan	auxiliary	0	##	prs	1			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	69	dan	copula	n	V	prs	3			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	71	dan	copula	n	#	prs	3			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	77	allan	auxiliary	0	##	prs	1			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	85	dan	copula	0	C	prs	3			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	91	gogon	auxiliary	n	V	rem	3			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	94	allan	auxiliary	0	V	prs	1			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	100	dan	copula	n	V	prs	3			
+KJJ	Limol	F	46-61	Dd?liag	Llimollang	N	108	dan	copula	0	##	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	16	gogon	auxiliary	n	##	rem	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	19	dan	copula	n	#	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	25	gogon	auxiliary	0	##	rem	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	36	allan	auxiliary	n	##	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	45	dan	copula	n	#	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	50	dan	copula	n	##	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	67	dan	copula	n	#	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	70	dan	copula	n	#	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	72	dan	copula	n	#	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	79	dan	copula	0	##	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	85	dan	copula	n	##	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	87	bogon	auxiliary	n	#	fut	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	88	bogon	auxiliary	n	#	fut	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	89	dan	copula	0	#	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	90	dan	copula	0	C	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	91	dan	copula	n	C	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	92	dan	copula	n	#	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	107	dan	copula	n	##	prs	1			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	108	dan	copula	n	##	prs	3			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	109	allan	auxiliary	0	##	prs	1			
+KKB	Limol	M	30-45	Dd?liag	Yawinang	N	115	agan	auxiliary	0	##	rec	3			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	6	dan	copula	0	##	prs	3			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	22	dan	copula	0	C	prs	3			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	23	dan	copula	0	V	prs	3			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	38	agan	auxiliary	n	#	rec	3			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	46	allan	auxiliary	0	V	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	49	allan	auxiliary	0	##	prs	3			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	65	allan	auxiliary	0	##	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	66	allan	auxiliary	0	V	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	99	dan	copula	0	##	prs	3			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	106	allan	auxiliary	0	#	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	116	allan	auxiliary	0	C	prs	3			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	118	allan	auxiliary	0	##	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	123	allan	auxiliary	0	V	prs	3			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	124	allan	auxiliary	0	C	prs	3			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	128	allan	auxiliary	0	##	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	131	allan	auxiliary	n	#	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	132	allan	auxiliary	n	V	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	145	allan	auxiliary	0	V	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	148	allan	auxiliary	0	V	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	149	allan	auxiliary	0	V	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	151	allan	auxiliary	0	V	prs	1			
+KKD	Limol	M	30-45	Yamkong	Da?ra?lag	N	182	dan	copula	0	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	5	dan	copula	0	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	6	dan	copula	n	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	7	dan	copula	0	C	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	8	dan	copula	n	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	12	allan	auxiliary	0	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	13	allan	auxiliary	0	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	16	dan	copula	n	C	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	19	dan	copula	0	##	prs	1			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	26	dan	copula	n	#	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	29	dan	copula	0	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	32	dan	copula	0	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	35	dan	copula	n	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	37	dan	copula	n	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	39	dan	copula	0	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	40	dan	copula	n	V	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	41	dan	copula	n	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	44	allan	auxiliary	n	#	prs	1			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	45	allan	auxiliary	n	##	prs	1			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	46	dan	copula	0	##	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	47	dan	copula	0	V	prs	3			
+KKK	Limol	F	46-61	Dd?liag	Tizag	Y	48	dan	copula	n	##	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	10	allan	auxiliary	0	##	prs	1			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	31	dan	copula	0	V	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	57	allan	auxiliary	0	C	prs	1			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	62	dan	copula	0	C	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	63	dan	copula	0	##	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	80	dan	copula	0	V	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	83	agan	auxiliary	0	##	rec	1			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	94	dan	copula	0	##	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	96	allan	auxiliary	0	##	prs	1			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	99	allan	auxiliary	0	##	prs	1			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	157	dan	copula	0	##	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	177	dan	copula	0	V	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	179	dan	copula	0	V	prs	2			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	180	dan	copula	0	##	prs	2			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	201	dan	copula	0	C	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	202	dan	copula	n	#	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	203	dan	copula	0	##	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	209	dan	copula	n	V	prs	1			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	213	allan	auxiliary	0	C	prs	1			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	214	allan	auxiliary	0	##	prs	1			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	215	dan	copula	0	##	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	217	dan	copula	0	##	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	223	dan	copula	0	##	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	225	dan	copula	0	V	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	226	dan	copula	0	C	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	227	dan	copula	0	V	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	240	dan	copula	0	C	prs	1			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	256	dan	copula	0	C	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	259	agan	auxiliary	0	V	rec	1			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	260	allan	auxiliary	0	V	prs	1			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	266	dan	copula	0	##	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	267	dan	copula	n	C	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	275	dan	copula	0	C	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	276	gogon	auxiliary	n	V	rem	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	277	dan	copula	n	##	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	278	dan	copula	0	##	prs	2			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	280	dan	copula	n	##	prs	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	283	agan	auxiliary	n	#	rec	3			
+KKN	Limol	M	62+	Dd?liag	Tizag	N	284	agan	auxiliary	0	##	rec	3			
+KMJ	Limol	M	15-29	Yamkong	Bobeag	N	17	allan	auxiliary	0	##	prs	1			
+KMJ	Limol	M	15-29	Yamkong	Bobeag	N	21	dan	copula	n	##	prs	3			
+KMJ	Limol	M	15-29	Yamkong	Bobeag	N	23	dan	copula	n	#	prs	3			
+KMJ	Limol	M	15-29	Yamkong	Bobeag	N	24	dan	copula	n	#	prs	3			
+KMJ	Limol	M	15-29	Yamkong	Bobeag	N	29	allan	auxiliary	0	##	prs	3			
+KMJ	Limol	M	15-29	Yamkong	Bobeag	N	38	allan	auxiliary	0	##	prs	3			
+KMJ	Limol	M	15-29	Yamkong	Bobeag	N	40	allan	auxiliary	0	##	prs	3			
+KMJ	Limol	M	15-29	Yamkong	Bobeag	N	43	bogon	auxiliary	n	V	fut	3			
+KMJ	Limol	M	15-29	Yamkong	Bobeag	N	44	bogon	auxiliary	0	V	fut	3			
+KMJ	Limol	M	15-29	Yamkong	Bobeag	N	45	dan	copula	0	##	prs	3			
+KMJ	Limol	M	15-29	Yamkong	Bobeag	N	46	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	2	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	3	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	11	allan	auxiliary	0	##	prs	1			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	16	dan	copula	n	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	25	allan	auxiliary	0	##	prs	1			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	31	gogon	auxiliary	n	##	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	38	gogon	auxiliary	n	##	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	49	dan	copula	0	##	prs	1			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	60	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	76	dan	copula	0	C	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	81	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	83	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	84	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	92	gogon	auxiliary	n	##	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	93	bogon	auxiliary	0	##	fut	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	98	gogon	auxiliary	n	##	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	104	gogon	auxiliary	n	V	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	105	dan	copula	0	V	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	107	gogon	auxiliary	n	##	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	111	gogon	auxiliary	n	V	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	112	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	115	gogon	auxiliary	n	##	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	121	gogon	auxiliary	n	##	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	128	dan	copula	0	#	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	130	dan	copula	0	#	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	137	gogon	auxiliary	n	#	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	138	gogon	auxiliary	n	#	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	148	dan	copula	n	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	151	dan	copula	0	V	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	156	gogon	auxiliary	n	V	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	161	dan	copula	0	##	prs	1			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	162	allan	auxiliary	0	##	prs	1			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	163	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	164	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	165	gogon	auxiliary	0	##	rem	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	166	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	174	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	175	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	176	bogon	auxiliary	0	##	fut	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	177	dan	copula	0	##	prs	3			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	182	agan	auxiliary	0	C	rec	1			
+KMM	Limol	M	62+	Yamkong	Bobeag	Y	185	agan	auxiliary	0	#	rec	1			
+KNN	Limol	M	46-61	Yamkong		N	2	dan	copula	0	##	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	3	dan	copula	0	##	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	9	bogon	auxiliary	n	#	fut	3			
+KNN	Limol	M	46-61	Yamkong		N	36	dan	copula	0	C	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	39	gogon	auxiliary	n	V	rem	3			
+KNN	Limol	M	46-61	Yamkong		N	46	agan	auxiliary	n	V	rec	1			
+KNN	Limol	M	46-61	Yamkong		N	50	bogon	auxiliary	n	V	fut	3			
+KNN	Limol	M	46-61	Yamkong		N	51	dan	copula	n	C	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	52	dan	copula	n	V	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	53	dan	copula	0	##	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	55	allan	auxiliary	n	C	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	62	dan	copula	n	#	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	63	dan	copula	0	V	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	86	allan	auxiliary	0	V	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	97	dan	copula	n	V	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	98	dan	copula	0	##	prs	3			
+KNN	Limol	M	46-61	Yamkong		N	99	dan	copula	0	V	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	11	dan	copula	n	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	16	dan	copula	n	#	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	19	dan	copula	0	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	20	gogon	auxiliary	n	##	rem	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	21	gogon	auxiliary	n	##	rem	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	24	dan	copula	0	V	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	25	dan	copula	0	#	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	26	dan	copula	0	##	prs	1			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	30	dan	copula	n	##	prs	1			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	34	dan	copula	n	##	prs	1			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	38	dan	copula	n	##	prs	1			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	41	allan	auxiliary	0	V	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	43	dan	copula	n	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	47	dan	copula	0	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	48	dan	copula	0	C	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	49	dan	copula	0	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	50	dan	copula	0	##	prs	1			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	69	dan	copula	0	#	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	72	dan	copula	0	V	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	77	allan	auxiliary	n	##	prs	1			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	81	dan	copula	0	C	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	95	dan	copula	n	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	97	dan	copula	n	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	104	gogon	auxiliary	n	#	rem	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	105	dan	copula	n	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	113	dan	copula	n	#	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	115	dan	copula	0	#	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	116	dan	copula	0	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	124	allan	auxiliary	0	##	prs	1			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	125	dan	copula	n	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	126	dan	copula	n	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	127	dan	copula	n	V	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	129	allan	auxiliary	n	#	prs	1			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	130	dan	copula	0	V	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	131	dan	copula	0	V	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	151	allan	auxiliary	0	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	153	dan	copula	0	##	prs	3			
+KTG	Limol	F	46-61	Yamkong	Bozrobag	Y	164	allan	auxiliary	n	##	prs	1			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	5	dan	copula	0	C	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	8	dan	copula	0	##	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	14	allan	auxiliary	0	##	prs	1			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	22	dan	copula	0	C	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	23	dan	copula	0	##	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	27	dan	copula	0	C	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	42	dan	copula	0	C	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	43	dan	copula	n	#	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	47	dan	copula	n	#	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	48	dan	copula	0	##	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	53	dan	copula	n	#	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	56	dan	copula	n	#	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	57	dan	copula	n	#	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	61	allan	auxiliary	n	##	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	62	dan	copula	n	C	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	69	dan	copula	n	##	prs	1			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	73	allan	auxiliary	0	##	prs	1			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	75	dan	copula	0	##	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	76	dan	copula	n	##	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	77	dan	copula	0	V	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	78	dan	copula	0	V	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	81	allan	auxiliary	0	#	prs	1			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	85	dan	copula	n	##	prs	3			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	87	allan	auxiliary	0	#	prs	1			
+LDD	Limol	F	30-45	Dd?liag	Yawinang	N	96	agan	auxiliary	n	##	rec	1			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	10	allan	auxiliary	0	##	prs	1			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	13	allan	auxiliary	0	##	prs	1			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	16	allan	auxiliary	0	##	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	17	allan	auxiliary	0	##	prs	1			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	7	allan	auxiliary	0	##	prs	1			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	25	gogon	auxiliary	0	#	rem	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	26	gogon	auxiliary	0	##	rem	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	28	allan	auxiliary	0	#	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	29	allan	auxiliary	0	##	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	31	allan	auxiliary	0	#	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	32	allan	auxiliary	0	#	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	34	allan	auxiliary	0	C	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	39	gogon	auxiliary	0	C	rem	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	40	gogon	auxiliary	n	##	rem	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	43	gogon	auxiliary	n	##	rem	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	44	dan	copula	0	##	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	46	allan	auxiliary	0	C	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	47	allan	auxiliary	0	C	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	50	allan	auxiliary	0	##	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	53	allan	auxiliary	0	##	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	55	allan	auxiliary	0	##	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	59	allan	auxiliary	n	V	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	74	allan	auxiliary	0	##	prs	1			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	77	dan	copula	0	C	prs	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	78	allan	auxiliary	0	#	prs	1			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	83	gogon	auxiliary	0	##	rem	3			
+LWG	Limol	F	30-45	Yamkong	Da?ra?lag	N	89	dan	copula	0	V	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	6	dan	copula	n	C	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	8	dan	copula	0	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	13	dan	copula	n	C	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	30	agan	auxiliary	n	V	rec	1			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	35	dan	copula	0	C	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	42	dan	copula	0	##	prs	1			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	60	dan	copula	0	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	63	Dan	copula	n	C	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	64	allan	auxiliary	n	C	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	70	gogon	auxiliary	n	##	rem	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	72	allan	auxiliary	n	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	85	dan	copula	0	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	91	dan	copula	0	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	95	dan	copula	0	C	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	100	dan	copula	0	C	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	106	gogon	auxiliary	n	##	rem	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	117	allan	auxiliary	0	V	prs	1			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	118	allan	auxiliary	0	##	prs	1			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	121	dan	copula	n	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	125	dan	copula	n	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	126	dan	copula	n	V	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	127	allan	auxiliary	0	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	129	allan	auxiliary	0	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	130	allan	auxiliary	0	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	131	dan	copula	n	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	132	allan	auxiliary	0	V	prs	1			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	136	allan	auxiliary	0	V	prs	1			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	138	bogon	auxiliary	n	##	fut	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	141	allan	auxiliary	0	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	157	dan	copula	n	##	prs	3			
+MBB	Limol	M	30-45	Yamkong	Ka?ballag	Y	160	dan	copula	0	C	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	20	dan	copula	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	26	agan	auxiliary	0	##	rec	1			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	31	allan	auxiliary	n	V	prs	1			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	41	gogon	auxiliary	n	##	rem	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	63	dan	copula	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	66	dan	copula	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	67	dan	copula	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	68	dan	copula	0	C	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	70	dan	copula	0	C	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	71	allan	auxiliary	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	72	dan	copula	0	#	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	73	dan	copula	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	78	dan	copula	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	82	dan	copula	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	83	dan	copula	n	V	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	84	dan	copula	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	91	allan	auxiliary	0	##	prs	1			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	97	dan	copula	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	98	dan	copula	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	104	allan	auxiliary	0	#	prs	1			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	111	dan	copula	0	##	prs	3			
+MBJ	Limol	M	15-29	Yamkong	Ka?ballag	N	114	dan	copula	0	##	prs	3			
+MKK	Malam	F	62+	Yamkong		N	9	Dan	copula	n	C	prs	3			
+MKK	Malam	F	62+	Yamkong		N	16	gogon	auxiliary	n	##	rem	3			
+MKK	Malam	F	62+	Yamkong		N	20	gogon	auxiliary	0	##	rem	3			
+MKK	Malam	F	62+	Yamkong		N	23	dan	copula	0	C	prs	3			
+MKK	Malam	F	62+	Yamkong		N	31	dan	copula	0	C	prs	3			
+MKK	Malam	F	62+	Yamkong		N	34	dan	copula	0	##	prs	3			
+MKK	Malam	F	62+	Yamkong		N	37	dan	copula	0	C	prs	3			
+MKK	Malam	F	62+	Yamkong		N	38	dan	copula	0	C	prs	3			
+MKK	Malam	F	62+	Yamkong		N	47	dan	copula	0	C	prs	3			
+MKK	Malam	F	62+	Yamkong		N	52	gogon	auxiliary	n	##	rem	3			
+MKK	Malam	F	62+	Yamkong		N	61	dan	copula	0	C	prs	3			
+MKK	Malam	F	62+	Yamkong		N	64	allan	auxiliary	0	##	prs	1			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	8	dan	copula	0	##	prs	3			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	14	dan	copula	0	##	prs	1			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	36	agan	auxiliary	n	C	rec	1			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	41	dan	copula	0	##	prs	3			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	44	dan	copula	0	##	prs	3			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	48	dan	copula	0	##	prs	3			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	53	dan	copula	n	##	prs	3			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	55	gogon	auxiliary	n	#	rem	3			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	62	allan	auxiliary	0	##	prs	1			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	64	allan	auxiliary	n	##	prs	1			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	68	gogon	auxiliary	n	##	rem	3			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	70	gogon	auxiliary	n	C	rem	3			
+MLB	Limol	F	46-61	Yamkong	Ka?ballag	N	86	agan	auxiliary	0	##	rec	1			
+MNN	Limol	F	46-61	Yamkong		N	2	dan	copula	0	##	prs	3			
+MNN	Limol	F	46-61	Yamkong		N	13	allan	auxiliary	0	C	prs	1			
+MNN	Limol	F	46-61	Yamkong		N	18	dan	copula	0	V	prs	3			
+MNN	Limol	F	46-61	Yamkong		N	34	allan	auxiliary	0	V	prs	1			
+MNN	Limol	F	46-61	Yamkong		N	39	allan	auxiliary	0	C	prs	3			
+MNN	Limol	F	46-61	Yamkong		N	43	dan	copula	0	C	prs	3			
+MNN	Limol	F	46-61	Yamkong		N	45	dan	copula	0	##	prs	3			
+MNN	Limol	F	46-61	Yamkong		N	50	dan	copula	0	C	prs	3			
+MNN	Limol	F	46-61	Yamkong		N	52	gogon	auxiliary	n	#	rem	3			
+MNN	Limol	F	46-61	Yamkong		N	91	allan	auxiliary	n	#	prs	1			
+MNN	Limol	F	46-61	Yamkong		N	106	dan	copula	0	C	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	13	dan	copula	n	V	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	18	dan	copula	n	C	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	30	dan	copula	0	C	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	54	allan	auxiliary	0	##	prs	1			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	57	allan	auxiliary	0	##	prs	1			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	68	dan	copula	0	##	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	70	dan	copula	0	##	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	77	dan	copula	0	##	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	78	dan	copula	n	##	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	81	allan	auxiliary	0	#	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	82	allan	auxiliary	0	##	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	84	dan	copula	n	##	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	96	dan	copula	0	##	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	97	dan	copula	n	##	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	102	dan	copula	n	##	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	108	bogon	auxiliary	n	#	fut	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	111	dan	copula	0	##	prs	1			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	117	dan	copula	0	C	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	118	dan	copula	0	V	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	121	dan	copula	0	##	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	125	allan	auxiliary	0	V	prs	1			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	129	dan	copula	0	##	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	134	agan	auxiliary	n	##	rec	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	140	agan	auxiliary	0	C	rec	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	172	dan	copula	n	V	prs	3			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	173	agan	auxiliary	n	#	rec	1			
+MSK	Limol	F	15-29	Dd?liag	Wedag	N	177	agan	auxiliary	n	C	rec	1			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	11	dan	copula	0	##	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	14	allan	auxiliary	0	C	prs	1			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	33	dan	copula	0	#	prs	1			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	35	dan	copula	0	C	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	36	dan	copula	0	C	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	37	dan	copula	0	#	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	38	dan	copula	0	#	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	39	dan	copula	0	V	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	43	dan	copula	0	##	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	58	allan	auxiliary	0	C	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	59	allan	auxiliary	0	C	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	60	allan	auxiliary	0	C	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	67	allan	auxiliary	0	##	prs	1			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	68	bogon	auxiliary	0	##	fut	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	73	dan	copula	0	##	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	77	dan	copula	0	##	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	79	dan	copula	0	V	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	83	dan	copula	n	V	prs	3			
+MWW	Limol	M	30-45	Dd?liag	Wedag	N	85	dan	copula	0	V	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	6	dan	copula	0	V	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	7	dan	copula	0	##	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	9	allan	auxiliary	0	##	prs	1			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	16	allan	auxiliary	0	##	prs	1			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	19	dan	copula	0	##	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	21	dan	copula	0	C	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	25	dan	copula	0	##	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	26	dan	copula	0	##	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	27	dan	copula	0	##	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	28	dan	copula	0	V	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	29	dan	copula	0	##	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	33	dan	copula	0	#	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	41	gogon	auxiliary	n	##	rem	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	44	dan	copula	0	C	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	47	dan	copula	0	#	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	50	dan	copula	0	##	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	51	allan	auxiliary	n	##	prs	1			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	54	allan	auxiliary	0	##	prs	1			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	62	allan	auxiliary	0	V	prs	1			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	63	gogon	auxiliary	n	##	rem	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	65	dan	copula	0	#	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	66	dan	copula	0	##	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	67	dan	copula	0	##	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	68	dan	copula	n	##	prs	3			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	84	agan	auxiliary	0	V	rec	1			
+NKK	Limol	F	30-45	Yamkong	Bobeag	N	88	agan	auxiliary	n	C	rec	1			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	8	gogon	auxiliary	n	##	rem	3			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	14	dan	copula	0	##	prs	3			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	17	allan	auxiliary	0	##	prs	1			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	18	dan	copula	n	V	prs	3			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	45	allan	auxiliary	0	##	prs	1			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	47	allan	auxiliary	0	##	prs	1			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	48	dan	copula	0	##	prs	3			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	53	allan	auxiliary	0	#	prs	1			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	54	dan	copula	0	V	prs	3			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	57	dan	copula	0	#	prs	3			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	58	dan	copula	0	##	prs	3			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	59	allan	auxiliary	0	V	prs	1			
+PGG	Limol	F	30-45	Yamkong	Da?ra?lag	N	61	allan	auxiliary	0	V	prs	1			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	10	dan	copula	n	V	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	11	dan	copula	n	#	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	16	dan	copula	n	C	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	17	dan	copula	n	C	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	22	allan	auxiliary	n	C	prs	1			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	24	gogon	auxiliary	n	##	rem	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	34	dan	copula	0	C	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	45	allan	auxiliary	n	C	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	46	allan	auxiliary	n	##	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	49	allan	auxiliary	n	C	prs	1			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	51	allan	auxiliary	n	C	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	56	allan	auxiliary	n	C	prs	1			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	73	allan	auxiliary	n	##	prs	1			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	76	dan	copula	n	##	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	90	dan	copula	n	C	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	92	dan	copula	n	V	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	94	dan	copula	0	##	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	102	gogon	auxiliary	n	##	rem	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	106	gogon	auxiliary	n	C	rem	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	107	gogon	auxiliary	n	#	rem	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	113	gogon	auxiliary	n	##	rem	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	115	gogon	auxiliary	n	V	rem	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	116	gogon	auxiliary	n	#	rem	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	126	dan	copula	0	##	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	129	allan	auxiliary	n	#	prs	1			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	132	dan	copula	n	V	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	133	dan	copula	0	V	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	134	dan	copula	n	V	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	164	allan	auxiliary	n	##	prs	1			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	170	dan	copula	n	##	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	173	dan	copula	0	V	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	174	dan	copula	0	V	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	175	dan	copula	0	V	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	177	dan	copula	0	##	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	179	allan	auxiliary	n	##	prs	1			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	182	dan	copula	n	#	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	184	dan	copula	n	##	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	187	dan	copula	n	##	prs	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	190	gogon	auxiliary	n	#	rem	3			
+PKS	Limol	M	62+	Dd?liag	Wedag	Y	192	allan	auxiliary	n	V	prs	1			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	33	dan	copula	0	##	prs	3			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	46	agan	auxiliary	0	##	rec	1			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	53	gogon	auxiliary	0	##	rem	3			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	54	gogon	auxiliary	0	C	rem	3			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	58	gogon	auxiliary	0	C	rem	3			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	62	gogon	auxiliary	0	##	rem	3			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	66	agan	auxiliary	0	V	rec	3			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	73	gogon	auxiliary	0	C	rem	3			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	75	gogon	auxiliary	n	##	rem	3			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	77	allan	auxiliary	0	#	prs	1			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	114	dan	copula	0	##	prs	3			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	119	dan	copula	0	V	prs	3			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	128	allan	auxiliary	0	V	prs	1			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	129	allan	auxiliary	0	V	prs	1			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	130	dan	copula	0	##	prs	3			
+PWW	Limol	F	62+	Dd?liag	Dumollang	N	135	allan	auxiliary	n	V	prs	1			
+QGF	Limol	M	15-29	Dd?liag	Bubog	N	9	dan	copula	0	V	prs	3			
+QGF	Limol	M	15-29	Dd?liag	Bubog	N	16	dan	copula	0	##	prs	3			
+QGF	Limol	M	15-29	Dd?liag	Bubog	N	17	dan	copula	0	C	prs	3			
+QGF	Limol	M	15-29	Dd?liag	Bubog	N	18	dan	copula	0	C	prs	3			
+QGF	Limol	M	15-29	Dd?liag	Bubog	N	20	dan	copula	0	#	prs	3			
+QGF	Limol	M	15-29	Dd?liag	Bubog	N	21	dan	copula	0	##	prs	3			
+QGF	Limol	M	15-29	Dd?liag	Bubog	N	27	dan	copula	0	##	prs	3			
+QGF	Limol	M	15-29	Dd?liag	Bubog	N	28	dan	copula	0	##	prs	3			
+QGF	Limol	M	15-29	Dd?liag	Bubog	N	29	dan	copula	0	##	prs	3			
+QGF	Limol	M	15-29	Dd?liag	Bubog	N	47	dan	copula	0	##	prs	3			
+QGF	Limol	M	15-29	Dd?liag	Bubog	N	48	dan	copula	0	##	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	36	dan	copula	n	##	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	50	gogon	auxiliary	n	C	rem	3			
+RKK	Malam	F	62+	Dd?liag		Y	51	gogon	auxiliary	n	##	rem	3			
+RKK	Malam	F	62+	Dd?liag		Y	62	gogon	auxiliary	n	##	rem	3			
+RKK	Malam	F	62+	Dd?liag		Y	67	gogon	auxiliary	n	##	rem	3			
+RKK	Malam	F	62+	Dd?liag		Y	70	allan	auxiliary	0	##	prs	1			
+RKK	Malam	F	62+	Dd?liag		Y	77	dan	copula	0	#	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	90	allan	auxiliary	0	C	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	94	allan	auxiliary	0	C	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	97	allan	auxiliary	0	##	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	100	allan	auxiliary	n	##	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	103	allan	auxiliary	n	##	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	169	dan	copula	n	V	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	180	gogon	auxiliary	n	V	rem	3			
+RKK	Malam	F	62+	Dd?liag		Y	186	dan	copula	0	##	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	199	dan	copula	n	#	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	215	gogon	auxiliary	0	V	rem	3			
+RKK	Malam	F	62+	Dd?liag		Y	244	bogon	auxiliary	n	C	fut	3			
+RKK	Malam	F	62+	Dd?liag		Y	245	bogon	auxiliary	n	##	fut	3			
+RKK	Malam	F	62+	Dd?liag		Y	246	dan	copula	0	C	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	249	allan	auxiliary	n	C	prs	1			
+RKK	Malam	F	62+	Dd?liag		Y	251	dan	copula	0	C	prs	3			
+RKK	Malam	F	62+	Dd?liag		Y	252	allan	auxiliary	0	V	prs	1			
+RKK	Malam	F	62+	Dd?liag		Y	260	allan	auxiliary	0	V	prs	1			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	12	dan	copula	0	#	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	13	gogon	auxiliary	n	##	rem	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	14	gogon	auxiliary	n	##	rem	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	15	gogon	auxiliary	n	##	rem	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	18	dan	copula	0	C	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	21	dan	copula	n	C	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	22	dan	copula	n	#	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	23	dan	copula	0	C	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	24	dan	copula	n	C	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	26	dan	copula	n	#	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	32	gogon	auxiliary	n	##	rem	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	35	agan	auxiliary	0	C	rec	1			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	43	gogon	auxiliary	n	##	rem	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	51	dan	copula	0	##	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	54	dan	copula	n	C	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	55	allan	auxiliary	0	V	prs	1			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	58	allan	auxiliary	0	##	prs	1			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	64	dan	copula	n	#	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	68	dan	copula	n	V	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	69	dan	copula	0	##	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	71	dan	copula	0	C	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	89	dan	copula	0	C	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	93	bogon	auxiliary	n	#	fut	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	94	bogon	auxiliary	0	#	fut	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	96	dan	copula	0	##	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	101	dan	copula	0	#	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	108	dan	copula	0	C	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	113	dan	copula	n	V	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	114	bogon	auxiliary	n	#	fut	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	116	dan	copula	0	##	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	119	dan	copula	0	##	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	128	dan	copula	0	##	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	129	dan	copula	0	V	prs	3			
+RKS	Limol	M	30-45	Dd?liag	Wedag	N	130	dan	copula	0	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	1	dan	copula	0	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	26	dan	copula	n	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	33	gogon	auxiliary	n	##	rem	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	43	dan	copula	0	C	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	55	allan	auxiliary	n	V	prs	1			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	56	dan	copula	0	C	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	57	dan	copula	n	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	58	dan	copula	0	C	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	62	dan	copula	0	C	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	63	dan	copula	0	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	67	dan	copula	0	C	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	68	dan	copula	n	V	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	69	dan	copula	n	V	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	70	dan	copula	n	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	71	gogon	auxiliary	n	##	rem	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	72	allan	auxiliary	0	##	prs	1			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	74	allan	auxiliary	n	##	prs	1			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	82	dan	copula	0	#	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	96	allan	auxiliary	n	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	99	gogon	auxiliary	n	C	rem	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	102	allan	auxiliary	n	##	prs	1			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	112	dan	copula	0	C	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	113	dan	copula	0	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	114	dan	copula	n	##	prs	1			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	119	allan	auxiliary	n	##	prs	1			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	121	dan	copula	0	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	125	dan	copula	n	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	131	gogon	auxiliary	n	##	rem	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	135	dan	copula	0	V	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	139	gogon	auxiliary	n	##	rem	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	143	dan	copula	n	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	145	dan	copula	n	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	147	dan	copula	0	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	154	dan	copula	0	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	156	dan	copula	0	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	158	allan	auxiliary	n	##	prs	1			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	160	dan	copula	n	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	164	allan	auxiliary	0	##	prs	1			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	167	allan	auxiliary	0	C	prs	1			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	170	dan	copula	0	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	171	dan	copula	0	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	173	dan	copula	0	V	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	174	dan	copula	n	C	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	177	dan	copula	0	C	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	178	dan	copula	0	C	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	179	allan	auxiliary	n	C	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	181	dan	copula	0	#	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	184	dan	copula	0	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	199	dan	copula	n	C	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	207	dan	copula	n	##	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	208	allan	auxiliary	0	V	prs	3			
+RRR	Malam	F	62+	Dd?liag	Tizag	N	216	dan	copula	n	##	prs	3			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	4	agan	auxiliary	n	#	rec	1			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	9	dan	copula	0	##	prs	3			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	18	gogon	auxiliary	n	##	rem	3			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	54	allan	auxiliary	n	#	prs	1			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	65	bogon	auxiliary	n	#	fut	3			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	100	allan	auxiliary	n	##	prs	1			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	103	dan	copula	n	##	prs	3			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	106	dan	copula	n	#	prs	1			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	108	dan	copula	0	#	prs	3			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	110	dan	copula	n	##	prs	3			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	111	dan	copula	0	C	prs	3			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	115	bogon	auxiliary	n	V	fut	3			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	125	allan	auxiliary	n	#	prs	1			
+SKS	Limol	M	46-61	Dd?liag	Wedag	Y	128	dan	copula	n	C	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	28	agan	auxiliary	0	##	rec	1			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	29	dan	copula	0	##	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	55	dan	copula	n	V	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	60	agan	auxiliary	0	##	rec	1			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	61	dan	copula	0	C	prs	2			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	62	dan	copula	n	##	prs	2			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	73	allan	auxiliary	0	##	prs	1			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	75	allan	auxiliary	n	C	prs	1			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	81	dan	copula	0	##	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	82	agan	auxiliary	n	#	rec	1			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	85	dan	copula	0	##	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	93	gogon	auxiliary	n	##	rem	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	94	gogon	auxiliary	0	##	rem	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	107	dan	copula	0	C	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	113	allan	auxiliary	0	##	prs	1			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	115	allan	auxiliary	n	##	prs	1			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	119	dan	copula	n	V	prs	2			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	122	dan	copula	0	C	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	125	gogon	auxiliary	n	#	rem	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	127	allan	auxiliary	0	##	prs	1			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	129	allan	auxiliary	0	##	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	131	dan	copula	0	##	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	135	allan	auxiliary	0	##	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	143	dan	copula	n	C	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	146	dan	copula	0	##	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	147	dan	copula	0	##	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	152	dan	copula	0	##	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	162	dan	copula	0	##	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	171	dan	copula	0	C	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	172	gogon	auxiliary	n	V	rem	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	182	dan	copula	n	C	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	197	dan	copula	n	V	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	200	dan	copula	0	##	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	204	gogon	auxiliary	n	C	rem	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	206	agan	auxiliary	0	##	rec	1			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	207	dan	copula	n	C	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	211	dan	copula	0	#	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	212	dan	copula	0	#	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	217	dan	copula	0	V	prs	3			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	219	allan	auxiliary	0	V	prs	1			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	222	agan	auxiliary	0	##	rec	1			
+SSK	Limol	F	62+	Dd?liag	Wedag	Y	224	agan	auxiliary	0	##	rec	1			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	15	allan	auxiliary	n	##	prs	1			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	20	dan	copula	n	#	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	23	dan	copula	0	#	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	24	dan	copula	0	#	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	29	dan	copula	0	C	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	30	dan	copula	0	C	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	31	dan	copula	0	C	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	32	dan	copula	0	##	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	34	dan	copula	n	#	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	35	dan	copula	n	##	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	36	dan	copula	n	V	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	37	dan	copula	n	##	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	38	dan	copula	n	#	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	39	dan	copula	0	V	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	41	bogon	auxiliary	n	#	fut	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	42	bogon	auxiliary	n	V	fut	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	47	dan	copula	0	V	prs	3			
+SSS	Limol	F	15-29	Dd?liag	Wedag	N	48	allan	auxiliary	n	##	prs	1			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	2	dan	copula	0	##	prs	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	15	dan	copula	0	##	prs	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	23	bogon	auxiliary	0	##	fut	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	30	dan	copula	0	##	prs	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	32	dan	copula	0	##	prs	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	33	dan	copula	0	##	prs	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	34	dan	copula	0	##	prs	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	35	dan	copula	0	##	prs	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	41	allan	auxiliary	0	##	prs	1			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	58	bogon	auxiliary	n	#	fut	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	60	dan	copula	0	##	prs	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	61	dan	copula	0	##	prs	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	68	gogon	auxiliary	n	C	rem	3			
+TKJ	Limol	M	30-45	Dd?liag	Tizag	N	72	allan	auxiliary	0	C	prs	1			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	16	dan	copula	0	##	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	17	allan	auxiliary	0	##	prs	1			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	21	dan	copula	0	##	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	25	dan	copula	n	C	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	27	dan	copula	n	V	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	30	agan	auxiliary	0	##	rec	1			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	40	dan	copula	0	C	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	41	dan	copula	0	C	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	43	dan	copula	0	##	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	44	dan	copula	n	##	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	48	dan	copula	n	V	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	49	dan	copula	n	##	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	51	dan	copula	0	V	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	52	dan	copula	0	##	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	55	dan	copula	0	V	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	56	dan	copula	0	V	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	65	dan	copula	0	#	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	81	agan	auxiliary	n	V	rec	1			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	84	gogon	auxiliary	n	##	rem	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	86	dan	copula	0	##	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	87	dan	copula	n	##	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	92	dan	copula	0	##	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	95	allan	auxiliary	0	##	prs	1			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	96	dan	copula	0	##	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	114	dan	copula	0	C	prs	3			
+TMM	Limol	F	46-61	Yamkong	Ka?ballag	N	117	dan	copula	0	##	prs	3			
+TTW	Limol	M	30-45	Dd?liag	Wedag	Y	14	allan	auxiliary	0	##	prs	1			
+TTW	Limol	M	30-45	Dd?liag	Wedag	Y	22	dan	copula	0	V	prs	3			
+TTW	Limol	M	30-45	Dd?liag	Wedag	Y	33	allan	auxiliary	n	##	prs	3			
+TTW	Limol	M	30-45	Dd?liag	Wedag	Y	39	dan	copula	n	V	prs	3			
+TTW	Limol	M	30-45	Dd?liag	Wedag	Y	40	dan	copula	n	##	prs	3			
+TTW	Limol	M	30-45	Dd?liag	Wedag	Y	47	dan	copula	0	V	prs	3			
+TTW	Limol	M	30-45	Dd?liag	Wedag	Y	53	dan	copula	n	V	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	12	dan	copula	0	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	23	agan	auxiliary	0	##	rec	1			
+WFF	Malam	F	15-29	Yamkong		N	43	dan	copula	0	C	prs	1			
+WFF	Malam	F	15-29	Yamkong		N	44	dan	copula	0	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	46	allan	auxiliary	0	C	prs	1			
+WFF	Malam	F	15-29	Yamkong		N	49	dan	copula	0	C	prs	1			
+WFF	Malam	F	15-29	Yamkong		N	52	dan	copula	0	V	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	54	dan	copula	0	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	56	gogon	auxiliary	n	##	rem	3			
+WFF	Malam	F	15-29	Yamkong		N	59	dan	copula	0	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	60	gogon	auxiliary	n	##	rem	3			
+WFF	Malam	F	15-29	Yamkong		N	63	agan	auxiliary	n	V	rec	3			
+WFF	Malam	F	15-29	Yamkong		N	68	dan	copula	0	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	69	dan	copula	0	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	70	dan	copula	0	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	74	dan	copula	n	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	75	dan	copula	0	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	76	dan	copula	0	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	78	dan	copula	0	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	79	dan	copula	0	C	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	92	allan	auxiliary	0	V	prs	1			
+WFF	Malam	F	15-29	Yamkong		N	97	dan	copula	0	##	prs	3			
+WFF	Malam	F	15-29	Yamkong		N	102	allan	auxiliary	0	#	prs	1			
+WGF	Limol	M	15-29	Dd?liag	Bubog	N	19	dan	copula	0	#	prs	3			
+WGF	Limol	M	15-29	Dd?liag	Bubog	N	20	dan	copula	0	#	prs	3			
+WGF	Limol	M	15-29	Dd?liag	Bubog	N	21	dan	copula	0	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	2	dan	copula	0	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	8	dan	copula	0	V	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	10	dan	copula	0	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	20	dan	copula	n	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	44	dan	copula	0	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	45	dan	copula	n	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	54	dan	copula	0	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	60	dan	copula	0	V	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	64	dan	copula	n	#	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	65	dan	copula	n	#	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	66	dan	copula	n	C	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	72	dan	copula	0	#	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	77	dan	copula	0	V	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	79	dan	copula	n	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	80	dan	copula	n	C	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	82	allan	auxiliary	0	C	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	83	dan	copula	n	V	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	84	dan	copula	n	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	88	dan	copula	n	C	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	91	dan	copula	n	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	92	allan	auxiliary	0	##	prs	1			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	104	dan	copula	0	C	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	105	allan	auxiliary	n	##	prs	1			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	107	dan	copula	n	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	108	dan	copula	0	##	prs	3			
+WPP	Limol	M	46-61	Yamkong	Da?ra?lag	N	111	dan	copula	n	##	prs	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	15	allan	auxiliary	n	##	prs	1			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	26	dan	copula	n	V	prs	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	30	bogon	auxiliary	n	##	fut	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	32	allan	auxiliary	n	##	prs	1			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	33	allan	auxiliary	n	##	prs	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	35	gogon	auxiliary	n	##	rem	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	36	allan	auxiliary	n	##	prs	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	39	allan	auxiliary	n	##	prs	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	52	gogon	auxiliary	n	#	rem	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	54	dan	copula	0	##	prs	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	56	dan	copula	n	V	prs	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	57	dan	copula	0	V	prs	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	58	dan	copula	n	#	prs	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	59	dan	copula	0	C	prs	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	60	gogon	auxiliary	n	##	rem	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	63	gogon	auxiliary	n	##	rem	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	66	allan	auxiliary	n	##	prs	3			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	67	allan	auxiliary	n	V	prs	1			
+WWG	Limol	M	30-45	Yamkong	Da?ra?lag	Y	68	dan	copula	0	##	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	20	gogon	auxiliary	n	##	rem	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	58	dan	copula	n	V	prs	1			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	61	dan	copula	0	#	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	62	dan	copula	0	#	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	63	dan	copula	0	C	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	64	dan	copula	0	C	prs	1			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	65	dan	copula	0	C	prs	1			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	66	dan	copula	0	C	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	71	dan	copula	0	C	prs	1			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	73	dan	copula	0	C	prs	1			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	74	dan	copula	0	C	prs	1			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	81	dan	copula	n	#	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	82	allan	auxiliary	0	##	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	84	allan	auxiliary	n	##	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	86	allan	auxiliary	0	##	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	87	allan	auxiliary	0	##	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	98	dan	copula	n	#	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	99	allan	auxiliary	n	##	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	100	dan	copula	0	V	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	103	allan	auxiliary	0	##	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	131	dan	copula	0	##	prs	3			
+WWK	Limol	M	15-29	Dd?liag	Wedag	N	134	allan	auxiliary	0	#	prs	3			
+YBB	Limol	F	46-61	Yamkong	Ka?ballag	N	20	dan	copula	0	##	prs	3			
+YBB	Limol	F	46-61	Yamkong	Ka?ballag	N	25	dan	copula	0	C	prs	3			
+YBB	Limol	F	46-61	Yamkong	Ka?ballag	N	46	dan	copula	0	##	prs	3			
+YBB	Limol	F	46-61	Yamkong	Ka?ballag	N	58	gogon	auxiliary	n	##	rem	3			
+YBB	Limol	F	46-61	Yamkong	Ka?ballag	N	69	agan	auxiliary	0	##	rec	1			
+YBB	Limol	F	46-61	Yamkong	Ka?ballag	N	78	allan	auxiliary	n	##	prs	3			
+YBB	Limol	F	46-61	Yamkong	Ka?ballag	N	79	allan	auxiliary	0	##	prs	3			
+YBB	Limol	F	46-61	Yamkong	Ka?ballag	N	86	allan	auxiliary	0	C	prs	1			
+YBB	Limol	F	46-61	Yamkong	Ka?ballag	N	91	allan	auxiliary	0	C	prs	3			
+YBB	Limol	F	46-61	Yamkong	Ka?ballag	N	115	dan	copula	0	V	prs	3			
+YBB	Limol	F	46-61	Yamkong	Ka?ballag	N	117	dan	copula	0	V	prs	3			
+YMM	Limol	F	30-45	Dd?liag	Yawinang	N	10	dan	copula	0	##	prs	3			
+YMM	Limol	F	30-45	Dd?liag	Yawinang	N	12	allan	auxiliary	0	#	prs	3			
+YMM	Limol	F	30-45	Dd?liag	Yawinang	N	27	bogon	auxiliary	n	#	fut	3			
+YMM	Limol	F	30-45	Dd?liag	Yawinang	N	41	dan	copula	0	##	prs	3			
+YMM	Limol	F	30-45	Dd?liag	Yawinang	N	42	dan	copula	0	##	prs	3			
+YMM	Limol	F	30-45	Dd?liag	Yawinang	N	45	dan	copula	0	##	prs	3			
+YMM	Limol	F	30-45	Dd?liag	Yawinang	N	46	dan	copula	0	##	prs	3			
+YMM	Limol	F	30-45	Dd?liag	Yawinang	N	47	dan	copula	0	##	prs	3			
+YMM	Limol	F	30-45	Dd?liag	Yawinang	N	48	dan	copula	0	##	prs	3			
+YMM	Limol	F	30-45	Dd?liag	Yawinang	N	56	gogon	auxiliary	n	#	rem	3			
+YMM	Limol	F	30-45	Dd?liag	Yawinang	N	59	agan	auxiliary	0	##	rec	3			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	19	dan	copula	0	##	prs	3			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	27	allan	auxiliary	0	##	prs	1			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	31	allan	auxiliary	n	##	prs	1			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	44	dan	copula	0	V	prs	3			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	71	bogon	auxiliary	0	V	fut	3			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	87	agan	auxiliary	0	C	rec	3			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	88	dan	copula	0	C	prs	3			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	99	allan	auxiliary	n	V	prs	1			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	104	allan	auxiliary	0	##	prs	1			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	109	dan	copula	0	V	prs	3			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	122	allan	auxiliary	0	C	prs	1			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	124	allan	auxiliary	0	##	prs	1			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	126	allan	auxiliary	0	#	prs	1			
+YPP	Limol	F	46-61	Yamkong	Da?ra?lag	Y	127	allan	auxiliary	0	C	prs	1			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	6	gogon	auxiliary	n	##	rem	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	11	gogon	auxiliary	n	##	rem	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	14	allan	auxiliary	0	##	prs	1			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	18	dan	copula	0	##	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	21	dan	copula	0	##	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	23	dan	copula	0	##	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	29	dan	copula	0	##	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	33	dan	copula	n	##	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	34	dan	copula	n	##	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	36	gogon	auxiliary	n	##	rem	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	38	dan	copula	n	##	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	46	allan	auxiliary	0	V	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	49	dan	copula	0	##	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	50	dan	copula	n	##	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	53	dan	copula	0	##	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	54	dan	copula	0	##	prs	3			
+MTD	Limol	F	30-45	Dd?liag	Bubog	Y	60	gogon	auxiliary	n	##	rem	3			
+AKK	Malam	F	46-61	Dd?liag	Bodenang		7	Deyarän	verb	n	C	rem		3	lexical	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		8	deyarän	verb	0	C	rem		3	lexical	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		9	deyarän	verb	0	C	rem		3	lexical	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		12	bogon	verb	n	V	fut		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		14	daden	verb	0	##	prs		2	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		19	dan	verb	0	##	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		21	dan	verb	0	##	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		28	dan	verb	n	#	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		31	eran	verb	0	##	prs		2	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		32	anggan	verb	0	#	prs		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		34	anggan	verb	0	##	prs		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		36	allan	verb	0	C	prs		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		40	dan	verb	0	C	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		46	allan	verb	0	C	prs		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		47	dan	verb	0	C	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		48	gänyan	verb	n	##	prs		2	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		50	dan	verb	0	C	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		52	dan	verb	0	#	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		53	nallan	verb	0	#	rec		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		57	dan	verb	n	##	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		64	allan	verb	0	##	prs		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		67	dan	verb	0	V	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		70	dan	verb	n	##	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		74	dan	verb	0	C	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		78	eran	verb	0	##	prs		2	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		80	eran	verb	0	##	prs		2	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		83	eran	verb	0	##	prs		2	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		85	eran	verb	n	C	prs		2	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		87	angällbänan	verb	0	#	rec		4	lexical	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		89	agan	verb	n	##	rec		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		91	agan	verb	n	##	rec		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		92	agan	verb	n	##	rec		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		94	naudewan	verb	n	##	rec		4	lexical	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		96	agan	verb	n	##	rec		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		97	nallan	verb	0	C	rec		2	lexical	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		100	angosan	verb	n	#	rec		3	lexical	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		102	agan	verb	n	C	rec		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		105	yaran	verb	n	##	rec		2	lexical	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		107	angosan	verb	0	C	rec		3	lexical	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		109	angosan	verb	n	#	rec		3	lexical	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		113	angttägan	verb	0	C	rec		3	lexical	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		118	gänyan	verb	0	#	prs		2	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		120	dan	verb	n	#	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		124	gogon	verb	0	##	rem		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		125	gogon	verb	0	##	rem		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		127	Gänyan	verb	0	C	prs		2	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		129	allan	verb	0	##	prs		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		131	dan	verb	0	#	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		132	dan	verb	0	C	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		133	dan	verb	0	C	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		137	dan	verb	0	##	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		142	dan	verb	0	##	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		143	dan	verb	0	##	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		144	allan	verb	n	##	prs		2	auxiliary	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		145	dan	verb	0	C	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		147	dan	verb	n	##	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		151	dan	verb	0	##	prs		1	copula	Interview
+AKK	Malam	F	46-61	Dd?liag	Bodenang		152	dan	verb	n	C	prs		1	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		159	budabän	verb	0	##	fut		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		3	wainen	verb	n	C	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		5	wainen	verb	n	C	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		12	dan	verb	n	C	prs		1	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		15	daden	verb	n	##	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		21	nällädan	verb	n	##	rec		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		22	eran	verb	n	##	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		26	dittemän	verb	n	#	rem		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		28	allan	verb	n	##	prs		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		30	eran	verb	n	##	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		40	dan	verb	n	V	prs		1	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		43	dan	verb	n	##	prs		1	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		44	bazärnän	verb	n	##	fut		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		47	anggan	verb	n	##	prs		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		51	anggan	verb	0	C	prs		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		53	dan	verb	0	##	prs		1	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		55	anggan	verb	n	C	prs		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		57	anggan	verb	0	C	prs		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		59	anggan	verb	n	V	prs		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		62	ainen	verb	n	##	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		63	dan	verb	0	C	prs		1	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		70	endan	verb	0	##	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		71	dällädän	verb	n	#	rem		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		72	guddällän	verb	n	##	rem		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		73	deyarän	verb	n	C	rem		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		75	dällädän	verb	n	##	rem		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		76	deyangesnegän	verb	n	##	rem		5	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		77	gognegnän	verb	n	V	rem		3	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		80	gognegnän	verb	n	##	rem		3	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		81	bogon	verb	n	V	fut		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		82	bogon	verb	n	V	fut		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		83	dan	verb	n	V	prs		1	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		84	bogon	verb	n	#	fut		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		85	bandärän	verb	0	##	fut		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		86	daden	verb	n	##	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		88	aenen	verb	n	##	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		96	anggan	verb	n	##	prs		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		98	anggan	verb	n	#	prs		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		101	allan	verb	n	V	prs		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		104	botngoenegän	verb	n	#	fut		4	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		105	bognegän	verb	n	##	fut		3	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		106	gänyan	verb	0	#	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		112	eran	verb	0	C	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		113	allan	verb	n	V	prs		2	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		116	gänyan	verb	n	C	prs		2	copula	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		117	bägagän	verb	n	V	fut		3	auxiliary	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		119	angällbänan	verb	n	##	rec		4	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		120	otbawan	verb	n	#	rec		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		121	angällbänan	verb	n	V	rec		4	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		122	nansärbewan	verb	n	##	rec		4	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		123	yuwenyan	verb	n	##	rec		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		126	angttägan	verb	n	C	rec		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		127	anzäman	verb	n	##	rec		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		128	angttägan	verb	n	##	rec		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		131	nokoman	verb	0	C	rec		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		132	angosan	verb	n	V	rec		3	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		133	nallan	verb	n	##	prs		2	lexical	Interview
+GGR	Malam	M	46-61	Dd?liag	Bubog		134	dan	verb	n	##	prs		1	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		3	ainen	verb	n	##	prs		2	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		8	gogon	verb	n	##	rem		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		18	allan	verb	0	##	prs		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		20	eran	verb	n	##	prs		2	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		22	eran	verb	n	#	prs		2	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		28	yaran	verb	n	V	rec		2	lexical	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		32	eran	verb	0	C	prs		2	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		37	anggan	verb	n	V	prs		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		39	dan	verb	0	C	prs		1	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		41	dan	verb	0	C	prs		1	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		42	dan	verb	0	C	prs		1	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		43	dan	verb	0	C	prs		1	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		44	allan	verb	n	V	prs		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		46	ainen	verb	n	##	prs		2	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		49	allan	verb	n	##	prs		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		51	ainen	verb	n	##	prs		2	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		56	allan	verb	n	##	prs		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		57	gognegnän	verb	n	V	rem		3	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		60	allan	verb	0	V	prs		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		62	bogon	verb	n	V	fut		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		63	daden	verb	n	##	prs		2	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		70	allan	verb	n	V	prs		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		71	gogon	verb	n	#	rem		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		72	dan	verb	0	V	prs		1	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		73	daden	verb	n	##	prs		2	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		74	allan	verb	n	V	prs		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		76	anggan	verb	n	##	prs		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		78	dan	verb	0	C	prs		1	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		79	dan	verb	0	C	prs		1	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		86	allan	verb	n	C	prs		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		88	dan	verb	0	C	prs		1	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		90	bognegän	verb	n	#	fut		3	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		91	dan	verb	n	V	prs		1	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		93	budabän	verb	n	V	fut		3	lexical	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		95	allan	verb	n	#	prs		2	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		96	gänyan	verb	n	#	prs		2	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		98	bägagän	verb	n	#	fut		3	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		99	eran	verb	n	V	prs		2	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		100	bägagän	verb	n	##	fut		3	auxiliary	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		105	eran	verb	n	#	prs		2	copula	Interview
+GJJ	Limol	M	30-45	Dd?liag	Tizag		106	eran	verb	n	V	prs		2	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		5	daden	verb	0	##	prs		2	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		6	nallan	verb	n	V	prs		2	auxiliary	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		7	wainen	verb	n	##	prs		2	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		14	bogon	verb	n	##	fut		2	auxiliary	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		16	dan	verb	0	V	prs		1	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		18	wainen	verb	0	##	prs		2	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		20	ainen	verb	n	C	prs		2	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		25	danttogän	verb	0	##	rem		3	lexical	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		31	eran	verb	0	##	prs		2	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		34	dan	verb	n	#	prs		1	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		36	dan	verb	n	V	prs		1	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		37	dan	verb	n	##	prs		1	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		44	dan	verb	0	##	prs		1	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		47	dan	verb	0	C	prs		1	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		50	dan	verb	0	C	prs		1	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		57	wainen	verb	n	##	prs		2	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		60	allan	verb	0	##	prs		2	auxiliary	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		61	dan	verb	0	V	prs		1	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		64	eran	verb	0	#	prs		2	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		65	dällädän	verb	n	V	rem		3	lexical	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		66	anggan	verb	n	##	prs		2	auxiliary	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		68	dan	verb	0	V	prs		1	copula	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		72	budabän	verb	n	##	fut		3	lexical	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		73	allan	verb	n	##	prs		2	auxiliary	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		74	budabän	verb	n	V	fut		3	lexical	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		75	allan	verb	0	##	prs		2	auxiliary	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		76	budabän	verb	n	V	fut		3	lexical	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		83	budabän	verb	n	##	fut		3	lexical	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		85	bogon	verb	n	##	fut		2	auxiliary	Interview
+WGG	Limol	F	46-61	Yamkong	Bozrobag		86	bogon	verb	n	##	fut		2	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		3	wainen	verb	n	##	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		6	gogon	verb	n	C	rem		2	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		7	daden	verb	n	C	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		10	gänyan	verb	0	C	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		14	damändän	verb	n	C	rem		3	lexical	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		19	gänyan	verb	0	C	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		21	allan	verb	0	##	prs		2	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		24	allan	verb	n	##	prs		2	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		26	eran	verb	0	##	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		32	gänyan	verb	0	C	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		34	dan	verb	n	V	prs		1	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		37	eran	verb	0	##	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		40	dindugän	verb	n	C	rem		3	lexical	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		42	dan	verb	n	V	prs		1	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		54	gognegnän	verb	0	##	rem		3	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		55	dan	verb	0	#	prs		1	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		56	bognegän	verb	0	V	fut		3	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		57	bognegän	verb	0	##	fut		3	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		59	bognegän	verb	n	V	fut		3	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		60	daden	verb	n	##	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		62	wainen	verb	0	##	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		65	dan	verb	n	V	prs		1	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		70	eran	verb	n	##	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		72	dan	verb	0	V	prs		1	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		76	allan	verb	0	V	prs		2	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		79	dan	verb	n	V	prs		1	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		80	eran	verb	n	#	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		82	bognegän	verb	0	#	fut		3	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		83	dan	verb	n	V	prs		1	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		86	dan	verb	n	##	prs		1	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		88	eran	verb	n	##	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		89	gogon	verb	n	V	rem		2	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		90	gänyan	verb	n	C	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		93	dan	verb	n	C	prs		1	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		94	bogon	verb	n	C	fut		2	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		96	bogon	verb	n	##	fut		2	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		97	gänyan	verb	0	##	prs		2	copula	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		98	bogon	verb	n	V	fut		2	auxiliary	Interview
+WKS	Limol	M	46-61	Dd?liag	Wedag		3	ga?nyan	verb	n	#	prs		2	copula	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		7	goba?llna?n	verb	n	V	rem		3	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		8	gognegna?n	verb	0	C	rem		3	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		10	dan	verb	0	##	prs		1	copula	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		11	gognegna?n	verb	n	C	rem		3	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		12	gottamana?n	verb	n	##	rem		4	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		13	gottama?na?n	verb	n	##	rem		4	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		14	gottamana?n	verb	n	##	rem		4	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		15	gogon	verb	n	#	rem		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		16	gota?banega?n	verb	n	##	rem		5	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		17	dan	verb	0	##	prs		1	copula	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		18	ainin	verb	n	V	prs		2	copula	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		19	dan	verb	0	C	prs		1	copula	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		20	gogon	verb	n	V	rem		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		21	bogon	verb	n	V	fut		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		22	gogon	verb	n	V	rem		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		23	balla?n	verb	n	##	fut		2	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		24	gogon	verb	n	V	rem		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		25	donya?n	verb	0	C	rem		2	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		26	dowansega?n	verb	n	#	rem		4	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		27	gogon	verb	0	C	rem		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		28	gungmaeya?n	verb	n	C	rem		3	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		29	dalla?n	verb	n	C	rem		2	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		30	gokakala?n	verb	n	##	rem		4	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		31	ka?ttnan	verb	n	V	inf		2	infinitive	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		32	gogna?n	verb	n	C	rem		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		33	gonta?mona?n	verb	n	V	rem		4	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		34	allan	verb	0	##	prs		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		35	dalla?n	verb	n	V	rem		2	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		36	deyanda?ra?n	verb	0	C	rem		4	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		37	deyanda?ra?n	verb	n	C	rem		4	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		38	da?gnega?n	verb	n	C	rem		3	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		39	da?gnega?n	verb	n	C	rem		3	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		40	gogon	verb	n	##	rem		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		41	gogon	verb	n	V	rem		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		43	dindugma?llna?n	verb	n	#	rem		4	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		44	duduna?n	verb	n	C	rem		3	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		45	dindugma?llna?n	verb	n	##	rem		4	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		46	gogon	verb	0	V	rem		3	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		47	da?ga?na?n	verb	0	V	rem		3	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		48	ga?nyan	verb	n	V	prs		2	copula	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		49	ga?nyan	verb	n	C	prs		2	copula	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		50	ga?nyan	verb	0	C	prs		2	copula	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		51	agan	verb	0	##	rec		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		52	bowansega?n	verb	n	V	fut		4	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		53	balla?n	verb	n	##	fut		2	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		54	gogon	verb	0	V	rem		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		55	nallan	verb	n	C	rec		2	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		56	agan	verb	0	C	rec		2	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		57	na?gnegan	verb	n	C	rec		3	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		58	indugan	verb	0	C	rec		3	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		59	da?gnega?n	verb	0	C	rem		3	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		60	dalla?n	verb	n	C	rem		2	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		61	gongttaga?n	verb	n	V	rem		3	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		63	angesan	verb	0	##	rec		2	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		64	da?gnega?n	verb	n	C	rem		3	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		65	da?gaga?n	verb	0	##	rem		3	auxiliary	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		66	dan	verb	0	V	prs		1	copula	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		67	dan	verb	0	C	prs		1	copula	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		68	gotongoenegna?n	verb	n	C	rem		5	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		69	gotongoenegna?n	verb	n	C	rem		5	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		72	gongesa?n	verb	n	C	rem		3	lexical	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		73	ainin	verb	n	C	prs		2	copula	Narrative
+WKS	Limol	M	46-61	Dd?liag	Wedag		74	balla?n	verb	n	##	fut		2	lexical	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		1	yaonenega?n	verb	n	V	rec		4	lexical	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		5	nongon	verb	n	C	rec		2	lexical	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		6	dan	verb	n	##	prs		1	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		7	beyarna?n	verb	n	C	fut		3	lexical	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		1	giddollnen	verb	n	V	inf		3	infinitive	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		2	dan	verb	0	##	prs		1	copula	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		3	gogon	verb	n	##	rem		2	auxiliary	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		4	daden	verb	n	C	prs		2	copula	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		5	daden	verb	n	##	prs		2	copula	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		7	daden	verb	n	##	prs		2	copula	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		8	dan	verb	0	V	prs		1	copula	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		11	deyasinega?n	verb	n	##	rem		5	lexical	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		12	deyangisnega?n	verb	n	V	rem		5	lexical	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		13	giddollnen	verb	n	V	inf		3	infinitive	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		14	eran	verb	0	##	prs		2	auxiliary	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		15	dronen	verb	n	V	inf		2	infinitive	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		17	ngasnen	verb	n	V	inf		2	infinitive	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		18	deyasinega?n	verb	n	V	rem		5	lexical	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		20	gogeza?na?n	verb	n	V	rem		4	lexical	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		21	gogon	verb	n	##	rem		2	auxiliary	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		22	bognega?n	verb	n	##	fut		3	auxiliary	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		24	dan	verb	0	##	prs		1	copula	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		25	dan	verb	n	##	prs		1	copula	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		27	bogon	verb	n	##	fut		2	auxiliary	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		30	eran	verb	0	##	prs		2	auxiliary	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		32	bagirna?n	verb	0	##	fut		3	lexical	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		36	daeben	verb	n	##	prs		2	copula	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		37	dan	verb	n	C	prs		1	copula	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		40	bagirna?n	verb	0	V	fut		3	lexical	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		41	bagirna?n	verb	n	##	fut		3	lexical	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		43	gogon	verb	n	##	rem		2	auxiliary	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		44	gogon	verb	n	##	rem		2	auxiliary	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		46	biwenya?n	verb	n	##	fut		3	lexical	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		51	dan	verb	0	V	prs		1	copula	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		52	gotbawa?n	verb	n	C	rem		3	lexical	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		53	ga?nyan	verb	0	C	prs		2	copula	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		54	allan	verb	n	V	prs		2	auxiliary	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		55	eran	verb	0	V	prs		2	auxiliary	Kawa
+WKS	Limol	M	46-61	Dd?liag	Wedag		56	gogeza?nma?llna?n	verb	n	C	rem		5	lexical	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		1	wa?dda?llmaman	verb	n	C	rec		4	lexical	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		2	dan	verb	0	V	prs		1	copula	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		3	dan	verb	0	V	prs		1	copula	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		4	wa?dda?llmaman	verb	0	C	rec		4	lexical	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		5	na?ttkaeyan	verb	n	C	rec		3	lexical	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		6	gollaeballa?n	verb	n	V	rem		4	lexical	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		7	oknen	verb	n	V	inf		2	infinitive	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		8	wa?dda?llmaman	verb	n	##	rec		4	lexical	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		9	ngasnen	verb	n	V	inf		2	infinitive	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		10	dan	verb	0	C	prs		1	copula	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		11	dan	verb	n	##	prs		1	copula	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		13	dan	verb	0	##	prs		1	copula	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		15	angkaemaman	verb	n	C	rec		4	lexical	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		5	allan	verb	0	C	prs		2	auxiliary	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		6	beyakomnega?n	verb	n	C	fut		5	lexical	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		7	mudan	verb	n	C	prs		2	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		9	bongkaka?ga?n	verb	0	C	fut		4	lexical	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		11	ma?ttnan	verb	n	V	inf		2	infinitive	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		12	mudan	verb	0	C	prs		2	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		14	pa?naenen	verb	n	V	inf		3	infinitive	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		15	ibnin	verb	n	V	inf		2	infinitive	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		17	Endan	verb	n	C	prs		2	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		18	allan	verb	n	V	prs		2	auxiliary	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		19	nga?llba?n	verb	n	V	prs		2	infinitive	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		20	eran	verb	n	V	prs		2	auxiliary	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		21	allan	verb	n	V	prs		2	auxiliary	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		22	allan	verb	0	##	prs		2	auxiliary	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		23	allan	verb	n	V	prs		2	auxiliary	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		24	aenen	verb	n	C	prs		2	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		25	aenen	verb	n	#	prs		2	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		26	daden	verb	n	##	prs		2	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		28	natrama?n	verb	0	C	rec		3	lexical	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		29	dan	verb	0	##	prs		1	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		30	dan	verb	0	C	prs		1	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		36	daden	verb	n	##	prs		2	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		37	baemba?ga?n	verb	n	V	fut		3	lexical	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		38	dan	verb	0	V	prs		1	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		39	aenen	verb	n	C	prs		2	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		41	mudan	verb	0	#	prs		2	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		43	mudan	verb	0	C	prs		2	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		44	dan	verb	n	C	prs		1	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		45	naga?n	verb	n	C	fut		2	auxiliary	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		46	na?lltaman	verb	n	#	rec		3	lexical	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		47	agan	verb	n	V	rec		2	auxiliary	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		48	deyantemenynegna?n	verb	n	C	rem		6	lexical	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		49	nga?llba?n	verb	n	V	prs		2	infinitive	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		51	beyagnega?n	verb	0	#	fut		4	auxiliary	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		52	dan	verb	0	##	prs		1	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		53	beyangesa?n	verb	n	#	fut		4	lexical	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		54	dan	verb	0	#	prs		1	copula	Kawa
+AKK	Malam	F	46-61	Dd?liag	Bodenang		55	dan	verb	0	#	prs		1	copula	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		1	dan	verb	n	##	prs		1	copula	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		5	aenen	verb	n	#	prs		2	copula	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		6	dan	verb	0	#	prs		1	copula	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		7	yaran	verb	0	#	rec		2	auxiliary	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		8	agan	verb	n	##	rec		2	auxiliary	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		9	da?pa?dda?n	verb	n	V	rem		3	lexical	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		10	gognega?n	verb	n	C	rem		3	auxiliary	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		11	deyara?n	verb	n	##	rem		3	lexical	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		14	ibnin	verb	n	V	inf		2	infinitive	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		15	allan	verb	0	C	prs		2	auxiliary	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		16	agnan	verb	n	V	rec		2	auxiliary	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		17	allan	verb	n	##	prs		2	auxiliary	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		19	ngasnen	verb	n	V	inf		2	infinitive	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		20	deyara?n	verb	n	#	rem		3	lexical	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		21	ngasnen	verb	n	V	inf		2	infinitive	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		23	dan	verb	0	#	prs		1	copula	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		24	agan	verb	n	V	rec		2	auxiliary	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		25	gongtta?ga?n	verb	n	C	rem		3	lexical	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		27	ma?ttnan	verb	n	V	inf		2	infinitive	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		28	gobllaba?n	verb	n	C	rem		3	lexical	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		29	allan	verb	0	V	prs		2	auxiliary	Kawa
+WGG	Limol	F	46-61	Yamkong	Bozrobag		30	eran	verb	0	C	prs		2	auxiliary	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		7	gognega?n	verb	n	V	rem		3	auxiliary	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		8	gognega?n	verb	n	C	rem		3	auxiliary	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		9	gontemenynega?n	verb	n	C	rem		5	lexical	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		10	gognega?n	verb	n	C	rem		3	auxiliary	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		11	gombllowa?n	verb	n	V	rem		3	lexical	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		13	gogenega?n	verb	n	C	rem		4	lexical	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		14	gobllaba?n	verb	n	C	rem		3	lexical	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		16	dan	verb	0	#	prs		1	copula	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		17	gombllowa?n	verb	n	C	rem		3	lexical	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		19	gogenega?n	verb	n	C	rem		4	lexical	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		20	gogenega?n	verb	n	V	rem		4	lexical	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		2	deyanga?llba?n	verb	n	V	rem		4	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		3	dan	verb	0	##	prs		1	copula	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		5	goba?lla?n	verb	0	V	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		9	gogeza?na?n	verb	n	C	rem		4	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		10	gogon	verb	n	C	rem		2	auxiliary	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		11	gottama?na?n	verb	n	##	rem		4	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		12	dan	verb	n	C	prs		1	copula	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		13	endan	verb	n	#	prs		2	copula	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		14	aingguiyan	verb	n	##	rec		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		15	dinduga?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		16	da?nga?llba?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		17	da?nga?llba?n	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		18	dipnura?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		19	da?gaga?n	verb	n	#	rem		3	auxiliary	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		20	dinduga?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		21	gongosa?n	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		22	guturwama?n	verb	n	##	rem		4	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		23	da?nga?llba?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		24	dalla?n	verb	n	C	rem		2	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		25	dupolla?n	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		26	dipnura?n	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		27	gongosa?n	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		28	daden	verb	n	V	prs		2	copula	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		29	guturwama?n	verb	0	##	rem		4	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		30	da?nga?llba?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		31	gollowa?n	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		33	gogon	verb	n	##	rem		2	auxiliary	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		34	gogna?n	verb	n	##	rem		2	auxiliary	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		36	gogon	verb	n	##	rem		2	auxiliary	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		37	gongllba?na?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		38	gongkama?n	verb	n	#	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		39	gogezena?n	verb	n	C	rem		4	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		40	dinduga?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		41	Dingkuinma?llnega?n	verb	n	C	rem		5	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		42	dongkollma?lla?n	verb	n	C	rem		4	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		43	da?ngkama?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		44	gozena?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		45	da?plena?n	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		46	da?nynegna?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		48	gogon	verb	n	##	rem		2	auxiliary	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		5	ga?nyan	verb	n	##	prs		2	copula	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		7	goga?n	verb	n	##	rem		2	auxiliary	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		8	da?nga?lla?ba?n	verb	n	C	rem		4	lexical	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		10	dangesa?n	verb	n	##	rem		3	lexical	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		11	dagirna?n	verb	0	##	rem		3	lexical	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		12	gotarna?n	verb	n	##	rem		3	lexical	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		13	gotara?n	verb	n	C	rem		3	lexical	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		14	wotaran	verb	0	##	rec		3	lexical	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		15	gotara?n	verb	n	C	rem		3	lexical	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		16	wotaran	verb	n	##	rec		3	lexical	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		17	yununin	verb	n	V	inf		3	infinitive	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		18	dan	verb	0	C	prs		1	copula	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		19	yununin	verb	n	V	inf		3	infinitive	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		20	allan	verb	0	##	prs		2	auxiliary	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		21	goga?n	verb	n	##	rem		2	auxiliary	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		22	yununin	verb	n	V	inf		3	infinitive	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		23	dan	verb	0	#	prs		1	copula	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		24	dan	verb	0	C	prs		1	copula	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		25	gogna?n	verb	n	C	rem		2	auxiliary	Narrative
+WGG	Limol	F	46-61	Yamkong	Bozrobag		26	dangesa?n	verb	n	##	rem		3	lexical	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		15	dan	verb	n	##	prs		1	copula	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		26	aenen	verb	n	#	prs		2	copula	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		28	dan	verb	n	##	prs		1	copula	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		42	dan	verb	0	##	prs		1	copula	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		50	eran	verb	n	V	prs		2	auxiliary	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		52	eran	verb	n	##	prs		2	auxiliary	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		53	eran	verb	n	V	prs		2	auxiliary	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		56	dibenya?n	verb	n	##	rem		3	lexical	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		57	diwenya?n	verb	n	##	rem		3	lexical	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		58	da?gaga?n	verb	0	C	rem		3	auxiliary	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		59	dibenya?n	verb	n	C	rem		3	lexical	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		60	Gottamana?n	verb	n	##	rem		4	lexical	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		61	gomaema?n	verb	n	C	rem		3	lexical	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		62	gognega?n	verb	n	##	rem		3	auxiliary	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		64	ibenen	verb	n	V	inf		3	infinitive	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		66	wa?ttama?nan	verb	n	C	rec		4	lexical	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		68	ba?wensa?gma?llna?n	verb	n	V	fut		5	lexical	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		69	bagirna?n	verb	n	##	fut		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		6	gonga?llba?n	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		7	mudan	verb	0	V	prs		2	copula	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		8	da?ttema?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		9	gopna?n	verb	0	C	rem		2	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		10	gogna?n	verb	n	C	rem		2	auxiliary	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		12	Gopa?lltta?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		13	gozen	verb	n	C	rem		2	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		16	goda?men	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		19	goba?llna?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		20	gongtta?ga?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		21	Da?gabma?llna?n	verb	n	##	rem		4	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		22	da?nga?llba?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		23	dinduga?n	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		24	guspuna?n	verb	n	##	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		25	ga?nyan	verb	0	C	prs		2	copula	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		26	agan	verb	0	##	rec		2	auxiliary	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		27	da?nglla?ba?n	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		28	gonga?llba?n	verb	n	C	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		30	dizmolla?n	verb	n	V	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		31	gognegna?n	verb	n	##	rem		3	auxiliary	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		32	dan	verb	n	V	prs		1	copula	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		33	guira?n	verb	n	C	rem		2	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		34	gognegna?n	verb	0	V	rem		3	auxiliary	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		35	dan	verb	0	C	prs		1	copula	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		36	gognegna?n	verb	0	#	rem		3	auxiliary	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		37	da?dmawa?n	verb	0	V	rem		3	lexical	Narrative
+GGR	Malam	M	46-61	Dd?liag	Bubog		38	gognegna?n	verb	n	##	rem		3	auxiliary	Narrative
+GJJ	Limol	M	30-45	Dd?liag	Tizag		1	ibinin	verb	n	V	inf		3	infinitive	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		2	allan	verb	n	##	prs		2	auxiliary	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		3	dan	verb	n	V	prs		1	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		5	da?lla?bnega?n	verb	n	##	rem		4	lexical	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		6	ainen	verb	n	C	prs		2	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		7	dan	verb	n	##	prs		1	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		8	dan	verb	n	C	prs		1	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		9	ba?lla?da?n	verb	n	##	fut		3	lexical	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		10	dan	verb	n	V	prs		1	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		11	dan	verb	n	##	prs		1	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		12	ga?nyan	verb	n	##	prs		2	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		14	dan	verb	n	C	prs		1	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		16	dan	verb	n	V	prs		1	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		17	ta?banen	verb	n	V	inf		3	infinitive	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		18	bongesa?n	verb	n	##	fut		3	lexical	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		22	dan	verb	n	C	prs		1	copula	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		1	dan	verb	n	#	prs		1	copula	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		3	dan	verb	0	##	prs		1	copula	Kawa
+GGR	Malam	M	46-61	Dd?liag	Bubog		5	dan	verb	0	C	prs		1	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		3	dan	verb	n	##	prs		1	copula	Kawa
+GJJ	Limol	M	30-45	Dd?liag	Tizag		bangesa?n	Kawa	lexical	##	fut			n	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag		bangesa?n	Kawa	lexical	C	fut			0	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag		eran	Kawa	copula	##	prs			n	2	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	23	ga?nyan	Kawa	copula	V	prs			0	2	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	23	angkaman	Kawa	lexical	#	rec			n	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	25	nangesan	Kawa	lexical	##	rec			n	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	25	bangesa?n	Kawa	lexical	##	fut			n	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	27	bangesa?n	Kawa	lexical	V	fut			n	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	28	bangesa?n	Kawa	lexical	V	fut			n	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	28	bangesa?n	Kawa	lexical	V	fut			n	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	34	bottama?na?n	Kawa	lexical	V	fut			n	4	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	34	bongesa?n	Kawa	lexical	#	fut			n	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	34	dan	Kawa	copula	C	prs			0	1	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	36	bottama?na?n	Kawa	lexical	C	fut			n	4	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	36	bongesa?n	Kawa	lexical	V	fut			n	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	36	bongesa?n	Kawa	lexical	#	fut			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	165	eran	Kawa	copula	C	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	166	ga?nyan	Kawa	copula	##	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	166	da?gaga?n	Kawa	auxiliary	V	rem			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	167	daeben	Kawa	copula	V	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	168	ga?nyan	Kawa	copula	C	prs			0	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	168	guspuna?n	Kawa	lexical	#	rem			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	170	deyakomnega?n	Kawa	lexical	C	rem			n	5	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	171	ga?nyan	Kawa	copula	#	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	171	deyakomnega?n	Kawa	lexical	##	rem			n	5	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	174	gongesa?n	Kawa	lexical	##	rem			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	175	sinen	Kawa	infinitive	V	inf			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	175	anggan	Kawa	auxiliary	#	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	175	ga?nyan	Kawa	copula	#	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	176	bowensega?na?n	Kawa	lexical	#	fut			n	5	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	177	ata?ra?pnan	Kawa	lexical	#	rec			n	4	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	177	agan	Kawa	auxiliary	V	rec			0	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	177	pa?lla?ttanan	Kawa	infinitive	##	inf			0	4	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	177	nga?llba?nan	Kawa	infinitive	V	inf			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	178	anggan	Kawa	auxiliary	#	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	178	sinen	Kawa	infinitive	V	inf			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	178	anggan	Kawa	auxiliary	##	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	179	allan	Kawa	auxiliary	##	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	181	dazerna?n	Kawa	lexical	##	rem			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	181	anggan	Kawa	auxiliary	V	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	182	gogana?n	Kawa	lexical	V	rem			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	183	dazerna?n	Kawa	lexical	#	rem			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	183	na?gaba?llan	Kawa	lexical	##	rec			n	4	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	186	ata?ra?pa?nan	Kawa	lexical	##	rec			n	4	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	187	ga?nyan	Kawa	copula	C	prs			0	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	187	angtta?gan	Kawa	lexical	C	rec			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	187	anggan	Kawa	auxiliary	##	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	188	ga?nyan	Kawa	copula	C	prs			0	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	190	dda?gnan	Kawa	infinitive	V	inf			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	191	gognegna?n	Kawa	auxiliary	##	rem			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	192	gognegna?n	Kawa	auxiliary	##	rem			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	193	allan	Kawa	auxiliary	#	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	194	na?lltaman	Kawa	lexical	##	rec			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	196	dda?gnan	Kawa	infinitive	V	inf			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	196	bogon	Kawa	auxiliary	##	fut			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	198	ga?nyan	Kawa	copula	V	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	198	dan	Kawa	copula	##	prs			n	1	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	199	allan	Kawa	auxiliary	V	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	199	dan	Kawa	copula	##	prs			n	1	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	201	ba?trama?n	Kawa	lexical	C	fut			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	202	ga?nyan	Kawa	copula	C	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	203	ga?nyan	Kawa	copula	#	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	203	agan	Kawa	auxiliary	#	rec			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	203	dan	Kawa	copula	##	prs			n	1	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	203	dan	Kawa	copula	V	prs			n	1	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	204	bongesa?n	Kawa	lexical	C	fut			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	205	ba?gaga?n	Kawa	auxiliary	C	fut			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	205	bognegna?n	Kawa	auxiliary	##	fut			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	206	dan	Kawa	copula	V	prs			n	1	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	206	ga?nyan	Kawa	copula	V	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	207	ga?nyan	Kawa	copula	C	prs			n	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	207	ga?nyan	Kawa	copula	C	prs			0	2	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	207	ta?banen	Kawa	infinitive	V	inf			n	3	verb
+GGR	Malam	M	46-61	Dd?liag	Bubog	208	allan	Kawa	auxiliary	C	prs			n	2	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	14	gongesa?n	Kawa	lexical	##	rem			n	3	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	16	eran	Kawa	copula	C	prs			0	2	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	16	dan	Kawa	copula	C	prs			n	1	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	17	eran	Kawa	copula	C	prs			0	2	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	17	guspulla?n	Kawa	lexical	##	rem			n	3	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	19	allan	Kawa	auxiliary	#	prs			0	2	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	19	eran	Kawa	copula	##	prs			n	2	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	20	panynen	Kawa	infinitive	V	inf			n	2	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	20	ibnin	Kawa	infinitive	V	inf			n	2	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	20	allan	Kawa	auxiliary	##	prs			n	2	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	23	tta?kanen	Kawa	infinitive	V	inf			n	3	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	23	anggan	Kawa	auxiliary	V	prs			n	2	verb
+WGG	Limol	F	46-61	Yamkong	Bozrobag	23	bogena?n	Kawa	lexical	##	fut			n	3	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	3	dan	Kawa	copula	#	prs			n	1	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	3	dan	Kawa	copula	#	prs			n	1	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	3	dan	Kawa	copula	#	prs			n	1	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	3	dan	Kawa	copula	#	prs			n	1	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	3	anggan	Kawa	auxiliary	##	prs			n	2	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	4	daden	Kawa	copula	##	prs			n	2	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	5	anggan	Kawa	auxiliary	C	prs			n	2	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	5	anggan	Kawa	auxiliary	C	prs			n	2	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	7	bogna?n	Kawa	auxiliary	##	fut			n	2	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	9	bogon	Kawa	auxiliary	##	fut			n	2	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	9	ngasnen	Kawa	infinitive	V	inf			n	2	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	10	beyanda?reknegna?n	Kawa	lexical	C	fut			n	6	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	10	ngasnen	Kawa	infinitive	C	inf			n	2	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	3	bogon	Kawa	auxiliary	##	fut			n	2	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	4	ba?nda?rmenynega?n	Kawa	lexical	C	fut			n	5	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	4	endan	Kawa	copula	C	prs			n	2	verb
+WKS	Limol	M	46-61	Dd?liag	Wedag	2	allan	Kawa	auxiliary	##	prs			n	2	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	7	eran	Narrative	copula	##	prs			n	2	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	9	da?trama?n	Narrative	lexical	C	rem			n	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	11	dan	Narrative	copula	##	prs			n	1	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	16	bowensega?n	Narrative	lexical	C	fut			0	4	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	17	bozena?n	Narrative	lexical	C	fut			n	3	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	20	ngasnen	Narrative	infinitive	V	inf			n	2	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	23	ngasnen	Narrative	infinitive	V	inf			n	2	verb
+GJJ	Limol	M	30-45	Dd?liag	Tizag	24	ngasnen	Narrative	infinitive	V	inf			n	2	verb
